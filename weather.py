@@ -1,40 +1,19 @@
 import json
 import requests
 import os
+from keys import OPEN_WEATHER_API_KEY
 
-OPEN_WEATHER_API_KEY = os.environ["OPEN_WEATHER_API_KEY"]
-
-
-def get_weather_data(city, state):
+def get_weather():
     params = {
-        "q": f"{city},{state},US",
-        "limit": 1,
+        "lat": '38.55156276399227',
+        "lon": '28.238870626613853',
         "appid": OPEN_WEATHER_API_KEY,
-    }
-    url = "http://api.openweathermap.org/geo/1.0/direct"
-    response = requests.get(url, params=params)
-    content = json.loads(response.content)
-
-    try:
-        latitude = content[0]["lat"]
-        longitude = content[0]["lon"]
-    except (KeyError, IndexError):
-        return None
-
-    params = {
-        "lat": latitude,
-        "lon": longitude,
-        "appid": OPEN_WEATHER_API_KEY,
-        "units": "imperial",
+        "units": "metric",
     }
     url = "https://api.openweathermap.org/data/2.5/weather"
     response = requests.get(url, params=params)
     content = json.loads(response.content)
-
     try:
-        return {
-            "description": content["weather"][0]["description"],
-            "temp": content["main"]["temp"],
-        }
-    except (KeyError, IndexError):
-        return None
+        return content["main"]["temp"]
+    except:
+        return "N/A"
