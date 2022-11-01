@@ -49,9 +49,10 @@ def get_prices():
 
 
 def get_itb_data():
-    volume = get_volumes()
-    prices = get_prices()
-    return volume | prices
+    if get_volumes().get('Total Volume (Ton)') > 0:
+        volume = get_volumes()
+        prices = get_prices()
+        return volume | prices
 
 
 if __name__ == '__main__':

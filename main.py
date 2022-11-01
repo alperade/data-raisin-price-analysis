@@ -34,11 +34,14 @@ def update_csv():
     today = date.today()
     temperature = get_weather()
     usdtry = get_fx()
-    itb_data = get_itb_data()
-    new_row = {'Date': today, 'Temperature (C)': temperature, 'USDTRY': round(usdtry, 2)} | itb_data
-    with open('./raisin_data.csv', 'a') as csvfile:
-        writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
-        writer.writerow(new_row)
+    try:
+        itb_data = get_itb_data()
+        new_row = {'Date': today, 'Temperature (C)': temperature, 'USDTRY': round(usdtry, 2)} | itb_data
+        with open('./raisin_data.csv', 'a') as csvfile:
+            writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+            writer.writerow(new_row)
+    except:
+        print("No transaction on ITB")
 
 if __name__ == '__main__':
     update_csv()
