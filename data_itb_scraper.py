@@ -26,25 +26,34 @@ def get_volumes():
 def get_prices():
     if get_volumes().get('Total Volume') > 0:
         data = []
+        prices_raw = {}
         prices = {}
-        vol_table = tables[1]
-        table_rows = vol_table.find_all("td")
+        price_table = tables[1]
+        atypical = ['Çek.siz Kuru Üzüm Bandırmasız', 'Çek.siz Kuru Üzüm Bandırmasız (-)', 'Çek.siz Kuru Üzüm Bandırmasız (Eski Mahsül)']
+        table_rows = price_table.find_all("td")
         for row in table_rows:
             data.append(row.text.strip())
         data_len = int(len(data) / 2)
         for i in range(data_len):
             row = 2 * i
             price = int(data[row + 1].replace(',', '')) / 1000
-            if price > 0:
-                prices[data[row]] = price
-        print(prices)
-            #print(row_data.text.strip())
-        #row_data = table_rows.find_all("td")
-        #for header in table_headers:
-            #print(header.text.strip()[-4:])
+            prices_raw[data[row]] = price
+
+        for key in prices_raw:
+            if key[-6:] == '(Std.)':
+                prices[key[18:-7]] = prices_raw[key]
+        for type in atypical:
+            prices[type[18:]] = prices_raw[type]
+        prices['ÇEKİRDEKSİZ KURU ÜZÜM'] = prices_raw['ÇEKİRDEKSİZ KURU ÜZÜM']
+
+        return prices
+
 
 def get_itb_data():
-    pass
+    volume = get_volumes()
+    prices = get_prices()
+    return volume | prices
+
 
 if __name__ == '__main__':
-    get_prices()
+    print(get_itb_data())
