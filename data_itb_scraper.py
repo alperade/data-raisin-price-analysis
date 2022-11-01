@@ -18,13 +18,12 @@ def get_volumes():
         daily_volume[table_headers[i].text.strip()] = int(table_data[i].text.strip())
         volume_total += int(table_data[i].text.strip())
 
-    daily_volume['Total Volume'] = volume_total
+    daily_volume['Total Volume (Ton)'] = volume_total
 
     return daily_volume
-    #{'Tüccar(Trader)(Ton)': 60, 'Tariş(Taris Coop)(Ton)': 0, 'Total Volume': 60}
 
 def get_prices():
-    if get_volumes().get('Total Volume') > 0:
+    if get_volumes().get('Total Volume (Ton)') > 0:
         data = []
         prices_raw = {}
         prices = {}
