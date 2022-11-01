@@ -1,5 +1,11 @@
 # Raisin Data Collection and Analysis
-
+1 - Get temperature data (Done)
+2 - Get currency exchange data (Done)
+3 - Scrape raisin trade volume and price (Done)
+4 - Update google sheets?
+5 - Add past data into csv
+6 - Use DuckDB to manipulate data
+7 - Make graphs and display on frontend
 
 
 ## Getting started
