@@ -35,7 +35,7 @@ def update_csv():
     temperature = get_weather()
     usdtry = get_fx()
     itb_data = get_itb_data()
-    new_row = {'Date': today, 'Temperature': temperature, 'USDTRY': usdtry} | itb_data
+    new_row = {'Date': today, 'Temperature': temperature, 'USDTRY': round(usdtry, 2)} | itb_data
     with open('./raisin_data.csv', 'a') as csvfile:
         writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
         writer.writerow(new_row)
