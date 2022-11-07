@@ -9,9 +9,12 @@ def get_fx():
     response = requests.get(url, params=params)
     data = response.json()
     try:
-        return data['rates']['TRY']
-    except:
-        return "N/A"
+       data = response.json()
+       return data['rates']['TRY']
+    except requests.HTTPError as e:
+        print(f"Exception caught: {e}")
+
+
 
 if __name__ == '__main__':
     get_fx()

@@ -12,8 +12,8 @@ def get_weather():
     }
     url = "https://api.openweathermap.org/data/2.5/weather"
     response = requests.get(url, params=params)
-    content = json.loads(response.content)
     try:
+        content = json.loads(response.content)
         return content["main"]["temp"]
-    except:
-        return "N/A"
+    except requests.HTTPError as e:
+        print(f"Exception caught: {e}")
