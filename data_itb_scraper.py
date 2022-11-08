@@ -32,7 +32,7 @@ def get_prices():
         table_rows = price_table.find_all("td")
         for row in table_rows:
             data.append(row.text.strip())
-        data_len = int(len(data) / 2)
+        data_len = len(data) // 2
         for i in range(data_len):
             row = 2 * i
             price = int(data[row + 1].replace(',', '')) / 1000
