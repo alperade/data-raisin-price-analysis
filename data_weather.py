@@ -17,3 +17,6 @@ def get_weather():
         return content["main"]["temp"]
     except requests.HTTPError as e:
         print(f"Exception caught: {e}")
+
+if __name__ == '__main__':
+    print(get_weather())
