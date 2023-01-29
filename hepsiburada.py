@@ -35,10 +35,10 @@ def update_csv():
                 town = data[None][11]
                 product = data[None][15]
                 unit = data[None][16]
-                unit_cost = int(data[None][18].split(" TRY",1)[0].replace(',', '')) / 10000
+                unit_cost = round(int(data[None][18].split(" TRY",1)[0].replace(',', '')) / 10000, 2)
                 quantity = int(data[None][20])
-                total = int(data[None][21].split(" TRY",1)[0].replace(',', '')) / 10000
-                commission = int(data[None][23].split(" TRY",1)[0].replace(',', '')) / 10000
+                total = round(int(data[None][21].split(" TRY",1)[0].replace(',', '')) / 10000, 2)
+                commission = round(int(data[None][23].split(" TRY",1)[0].replace(',', '')) / 10000, 2)
                 net_total = total - commission
 
                 row = {
