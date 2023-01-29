@@ -10,7 +10,7 @@ fieldnames = [
     orders[0][None][10],
     orders[0][None][11],
     orders[0][None][15],
-    orders[0][None][16],
+    'Birim',
     orders[0][None][18],
     orders[0][None][20],
     orders[0][None][21],
@@ -61,4 +61,4 @@ def update_csv():
         print("No transaction on HB")
 
 if __name__ == '__main__':
-    update_csv()
+    create_csv()
