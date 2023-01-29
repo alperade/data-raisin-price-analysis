@@ -39,7 +39,7 @@ def update_csv():
                 quantity = int(data[None][20])
                 total = round(int(data[None][21].split(" TRY",1)[0].replace(',', '')) / 10000, 2)
                 commission = round(int(data[None][23].split(" TRY",1)[0].replace(',', '')) / 10000, 2)
-                net_total = total - commission
+                net_total = round(total - commission, 2)
 
                 row = {
                     fieldnames[0]: date,
@@ -55,7 +55,6 @@ def update_csv():
                     fieldnames[10]: commission,
                     fieldnames[11]: net_total
                     }
-                print(row)
                 writer.writerow(row)
 
     except:
