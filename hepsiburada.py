@@ -61,4 +61,5 @@ def update_csv():
         print("No transaction on HB")
 
 if __name__ == '__main__':
+    create_csv()
     update_csv()
