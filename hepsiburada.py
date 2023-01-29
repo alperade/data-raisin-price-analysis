@@ -13,7 +13,7 @@ fieldnames = [
     'Birim',
     orders[0][None][18],
     orders[0][None][20],
-    orders[0][None][21],
+    'Total',
     orders[0][None][23][:8],
     'Net Kar'
     ]
