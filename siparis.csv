@@ -1,210 +1,617 @@
 Sipariş Tarihi,Alıcı,Teslimat Adresi,Şehir,Semt,Ürün Adı,Birim,Birim Listeleme Fiyatı,Adet,Total,Komisyon,Net Kar
-27-01-2023,Demet Uçar,Adem Yavuz Mahallesi Şemsettin Sami Sokak NO : 15/2 Ümraniye/İstanbul,İstanbul,ÜMRANİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
-26-01-2023,Nimet Tuba Öz,Ege Mh. 426.Sokak No: 15 Daire:7 Oğuzhan Sitesi B Blok Kat3 Daire 7 Kuşadası / Aydın,Aydın,KUŞADASI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
-27-01-2023,meral çıtak bakan,İsmetpaşa Mahallesi 3 sokak No 41/4,İzmir,DİKİLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
-26-01-2023,Cesur Toraman,Fevzi çakmak mahallesi 8106 sk no 87 dayre 1,İzmir,TORBALI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
-26-01-2023,Bülent Yaldız,Şehit rahmi bey cd. No:47 Tuyan apt. Kat:3 daire/8,Balıkesir,GÖNEN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
-26-01-2023,Mustafa Yılmaz,Akabe mahallesi Ahmet BİLEK sokak NO 16CB Blok Daire:10,Konya,KARATAY,Salihli Kadın Girişimi Kayısı Marmelatı,400 gr,25.52,1,25.52,1.27,24.25
-26-01-2023,Mustafa Yılmaz,Akabe mahallesi Ahmet BİLEK sokak NO 16CB Blok Daire:10,Konya,KARATAY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
-25-01-2023,Havva Gedik,Toklu mh cennet sk. Vadi Apt A Blok Kat 5nm10,Trabzon,ORTAHİSAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-27-01-2023,Harun Kart,Büyük Sinan Mah. Kalemkar İlyas Sok. Akcami Konutları 10.Blok No: 9-A/24 Kat:5 ,Konya,KARATAY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
-27-01-2023,AYSUN TANİŞ,"Turkuaz Mah. 4317. Cad. N:2, CK 6 Blok, Kat: 4, Daire: 19",Ankara,ETİMESGUT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,4,151.76,5.38,146.38
-25-01-2023,Yağmur Erkonak,Hürriyet mah. Tören 2/1 sokak. Gülpark59 sitesi A blok no 9,Tekirdağ,SÜLEYMANPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-25-01-2023,Caner Turan,B.evler Mah. Mehmet Akif Ersoy 3.Cadde No:10/4 Güney Apt. Kat:2,Çorum,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-26-01-2023,Sermet Türkyılmaz,ARÇELİK Elektronik İşletmesi Çerkezköy Organize Sanayi Bölgesi Karaağaç Mahallesi 8.nci Sokak. No:1/A,Tekirdağ,KAPAKLI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-25-01-2023,Rabia Karabacak yavuz,Korucuk mah 4141 sok Osmangazi sitesi a blok kat 1 daire 3,Sakarya,ADAPAZARI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-24-01-2023,Flora Kocabaş,Boğaziçi mahalle yıldız sokak Kocabaş apartman 4 kat 2,Artvin,ARHAVİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-26-01-2023,Ada Öztürk,"Karapınar Mah, 1179 Sok, Özdoğukent Sitesi Bahar Apt 5/23 ",Ankara,ÇANKAYA,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
-22-01-2023,Fırat SARIKAYA,Namık Kemal cad. No:29 Kat:1 Daire:1,Batman,BEŞİRİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-24-01-2023,Burhan Burhanoğlu,Tuzla Mah. Sadi Pekin Cad. No: 12/1 ,Muğla,FETHİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-24-01-2023,Nuray YILDIRIM,Hızır Reis Cd. No:28 Kat:2 Daire:6,İstanbul,TUZLA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,3,133.95,6.73,127.22
-24-01-2023,Ayten Gönenç,Koşuyolu cad. Emlakbank sitesi A blok D:41 telefon. 05425666592,İstanbul,KADIKÖY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,3,133.95,6.73,127.22
-24-01-2023,Atilla YILDIRIM,"İstanbul Kanyon AVM - Easy Point, Levent, Büyükdere Cd. No:185, 34394 Şişli/İstanbul, -1 Kırmızı Otopark Girişi",İSTANBUL,ŞİŞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-23-01-2023,Ekrem Tunçkır,GAZETECİ İSMET SAYIN CD. SEDEF SK. NO :5 D:1 C BLOK KONFORKENT SİTESİ,Niğde,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-24-01-2023,Mustafa Erol,yalova üniversitesi merkez yerleşkesi Rektörlük Binası sağlık kültür ve Spor daire başkanlığı,Yalova,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-25-01-2023,esra ekmek,Talatpasa mah.keskingil cad.no:64 kat:2 daire:6,İstanbul,KAĞITHANE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-21-01-2023,Pervin Üstüner,26.Cadde Tan Yapı D Blok Daire 10,Şanlıurfa,VİRANŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-23-01-2023,John malcolm turan Erdem Paling,1312/2 sokak no 13 daire 17 huzur Apartmanı kat 4,Kocaeli,GEBZE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-21-01-2023,Bahadır Gören,80.yil bulvari 77131 Sk. Aktaş Sitesi  A blok no: 24/1 kat:4 daire:7,Adana,ÇUKUROVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-23-01-2023,Damla Diker,Plevne mah.bilir sok.16/13 sincan/ankara,Ankara,SİNCAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-23-01-2023,Funda Kökden,Ulubatlı Hasan mah. Karakayış cad. Selimiye sok. No:2 Aşiyan apt. Kat:4 D:13 42050 Karatay/KONYA ,Konya,KARATAY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-23-01-2023,Funda Kökden,Ulubatlı Hasan mah. Karakayış cad. Selimiye sok. No:2 Aşiyan apt. Kat:4 D:13 42050 Karatay/KONYA ,Konya,KARATAY,Salihli Kadın Girişimi Organik Gemlik Yağlı Salamura Siyah Zeytin,700 gr,70.0,1,70.0,3.52,66.48
-23-01-2023,Nihat Öztürk,Mustafa Kemal Mah. 6755/5 Sok. No:12 Kat:10 D:20 A106 yüksek vadi evleri 25040 ada Karşıyaka İZMİR EVKA 2 /KARŞIYAKA /İzmir,İzmir,KARŞIYAKA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,3,133.95,6.73,127.22
-23-01-2023,ali han,106 sokak 16/A - baymosa mobilya (aras kargo çaprazı),Denizli,ÇİVRİL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,3,133.95,6.73,127.22
-21-01-2023,HAKAN HARPUT KARACA,DENİZ AYAKKABI SERİNEVLER MH.ŞEHİT J.ER MUSTAFA GÖKSAL CD. NO 53/D,Adana,YÜREĞİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-22-01-2023,Kazım Uzunboy,Mustafa Kemal Paşa Caddesi Ata Caddesi Çınarcık sitesi B Blok Daire 5,Ordu,FATSA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-22-01-2023,ALİ İHSAN güler,Paşa mah:Atatürk Cad: No.131/ Büyük Mandıra Babaeski.KIRKLARELİ,Kırklareli,BABAESKİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-21-01-2023,zuhal kuroğlu,Ömercikler mah. 8099 sk. Akbelde konutları no:15 blok3 daire:3,Sakarya,AKYAZI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-22-01-2023,Burcu Başpınar Üğlü,Akbank t.a.s.megacenter şubesi kocatepe mah.kurugida sitesi c blok no:104 Bayrampaşa istanbul,İstanbul,BAYRAMPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-20-01-2023,Çağla Çavuş,Müddet sokak korkmazkayalife b blok no10 D11 ,İstanbul,PENDİK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-21-01-2023,Meral Açıkgöz,19 Mayıs mahallesi çubuk sokak No:4 Kat:2 Daire:13,Ankara,Keçiören,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-22-01-2023,Necla Çetin,Kizilarik mah 2798 sokak  batmaz apt no 44 daire 3,Antalya,MURATPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-20-01-2023,evrensel Bingöl,16/1 sokak no:8 kat:4 d:7 güzelyalı ,İzmir,KONAK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-22-01-2023,AYNUR SAZAK,Huzur Mah. 1158.Sokak Sümer Sitesi B Blok No: 22/17 DİKMEN-ANKARA,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-20-01-2023,Duhan Cücü,"Hatipköy Mahallesi Kemal Celebi Caddesi, Solin konutlari B Blok No:4",Kocaeli,İZMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,3,133.95,6.73,127.22
-21-01-2023,MSP Angel MSP Angel,GÜZELBAHÇE MAHALLESİ 59. SOKAK BB3 Blok NO 8 DAİRE 5 ,Düzce,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-20-01-2023,meral çıtak bakan,İsmetpaşa Mahallesi 3 sokak No 41/4,İzmir,DİKİLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Büşra Bülbül,Kars Cd. No:54 Kat:1 Daire:1 Özge Apartmani,Iğdır,TUZLUCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-21-01-2023,Filiz Koçman,MEVLANKAPI MAH. HACI EVLİYA CAMİİ SOK. NO:21 D:5 ,İstanbul,FATİH,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-21-01-2023,cengizhan keser,"Egemed kusadasi hastanesi Türkmen Mahallesi, ant Sk.  No 11  09400 Kuşadası/Aydın",Aydın,KUŞADASI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-20-01-2023,Yeşim Helvacı,241. Sokak A blok No:5 Kat:3 Daire:93,İstanbul,KÜÇÜKÇEKMECE,Salihli Kadın Girişimi Kooperatifi Toz Kimyon 100 gr,100 gr,20.0,1,20.0,1.0,19.0
-20-01-2023,Yeşim Helvacı,241. Sokak A blok No:5 Kat:3 Daire:93,İstanbul,KÜÇÜKÇEKMECE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-23-01-2023,Nuray YILDIRIM,KÜÇÜKBALIKLI MAH. 11 EYLÜL BULVARI ŞANLI CAD. NO:143 AFAD LOJMANLARI A BLOK K:3 D:5,Bursa,OSMANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,3,133.95,6.73,127.22
-20-01-2023,NERMİN GÜNEY ÇOKCAN,Bozova sokak Çokcan AP.no.3 da.6  Mecidiyeköy ,İstanbul,ŞİŞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-20-01-2023,Ege Alemdar,6029/1. Sk. No:23 Kat:5 Daire:5,İzmir,KARŞIYAKA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-19-01-2023,Namık Özözen,Gölyüzü mah. İlhan sok.Fatma hanım apt no.36 daire 9 kat 2 Bolu ,Bolu,MERKEZ,Salihli Kadın Girişimi Kayısı Marmelatı,400 gr,25.52,1,25.52,1.27,24.25
-19-01-2023,Namık Özözen,Gölyüzü mah. İlhan sok.Fatma hanım apt no.36 daire 9 kat 2 Bolu ,Bolu,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-19-01-2023,Namık Özözen,Gölyüzü mah. İlhan sok.Fatma hanım apt no.36 daire 9 kat 2 Bolu ,Bolu,MERKEZ,Elma Reçeli 350 gr,350 gr,28.35,1,28.35,1.42,26.93
-18-01-2023,Ali Gülten,Belediye Evleri Mahallesi 84287 Sokak Sazlıdere Sitesi F Blok Kat:8 No:16,Adana,ÇUKUROVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-18-01-2023,Ali Gülten,Belediye Evleri Mahallesi 84287 Sokak Sazlıdere Sitesi F Blok Kat:8 No:16,Adana,ÇUKUROVA,Salihli Kadın Girişimi Kuru Basım Yaprak 400 gr,400 gr,54.0,1,54.0,2.71,51.29
-18-01-2023,Ali Gülten,Belediye Evleri Mahallesi 84287 Sokak Sazlıdere Sitesi F Blok Kat:8 No:16,Adana,ÇUKUROVA,Salihli Kadın Girişimi Kooperatifi Toz Kimyon 100 gr,100 gr,20.0,1,20.0,1.0,19.0
-18-01-2023,Mehmet Türker,Bahçecik Mah. Yeni Cami Cad. 2604 Nolu Sok. Örnek Sit. No:8 A Blok İç Kapı:1 Ortahisar/Trabzon,Trabzon,ORTAHİSAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-17-01-2023,ferdağ temur,"Bahçesaray Mahallesi, TOKİ 1.Etap Küme Evleri, KG1-4 No:13.",Kayseri,İNCESU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-18-01-2023,Mert Işıkyapıcı,Kafkas Caddesi Yeşilkent 2 Sitesi Fırat Apartmanı No:13 D:7 Beykent,İSTANBUL,BEYLİKDÜZÜ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-16-01-2023,kadriye türkmen,Aktaş  Plevne caddesi Osman Gazi apartmanı 49/1,Ankara,ALTINDAĞ,Salihli Kadın Kooperatifi Salamura Yaprak,1 Adet,130.0,1,130.0,6.53,123.47
-18-01-2023,Bahar Bal,Zafer mah Büklüm cad Üstündağ konakları d blok d 11,Kırklareli,LÜLEBURGAZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,5,223.25,11.21,212.04
-18-01-2023,Pelin Erer,Alacaatlı mah 3158. Cad no 119 Fortis meridyen apt daire 2 ,Ankara,ÇANKAYA,Salihli Kadın Kooperatifi Çıtır Siyah Kabak Kurusu 250 gr,250 gr,60.0,2,120.0,6.02,113.98
-18-01-2023,Zeynep Çar,Seyhan caddesi Ayasofya Sk. No:14 Kat:3 Daire:3,İstanbul,SULTANBEYLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-18-01-2023,Onur Çoban,Güneş Mahallesi Uyar Caddesi No:23 Yeni Sanayi ,Kırklareli,LÜLEBURGAZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-18-01-2023,AYSUN TANİŞ,"Turkuaz Mah. 4317. Cad. N:2, CK 6 Blok, Kat: 4, Daire: 19",Ankara,ETİMESGUT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,4,178.6,8.97,169.63
-18-01-2023,Mustafa Vedat DURUSU,dikkaldırım mah.11.çeşme sok.cemre apt.no 14 kat 5 daire 9 osmangazi BURSA,Bursa,OSMANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-19-01-2023,HASİBE İŞÇİ,Hadımköy Vefa Konutları Cahit Sıtkı Tarancı Caddesi B Blok Daire:58 ,İstanbul,ARNAVUTKÖY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-18-01-2023,Ümit Atilla,"Ali Osman Sönmez Cad, No:23 DOSAB",Bursa,OSMANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,İdris İlhan,Elmalı Köyü Takyettin Ağyürek çiftliği Aziziye Erzurum,Erzurum,AZİZİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-15-01-2023,İdris İlhan,Elmalı Köyü Takyettin Ağyürek çiftliği Aziziye Erzurum,Erzurum,AZİZİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-18-01-2023,SERKAN ÖZTÜRK,STADYUM ARKA SK ERDAL İNÖNÜ CD AYYILDIZ AP 15/5 ,Tekirdağ,ÇORLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-18-01-2023,aslı özen demir,Cengiz Sk. No:24 Kat:4 Daire:4,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Hacer Kurgun,13054 No:38 Kat:3 Daire:1,Adana,SEYHAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Rabia Kahraman,"Beyazşehir, 836. Sk.  Hira ap. No:4, kat 5,no24 
+30-01-2023,DAVUT AY,Özcan Sokak no:8,Siirt,PERVARİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Süleyman Suat Garip,Bursa Cad Zigana Sk No:6/3,İstanbul,SULTANBEYLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,mustafa deniz,Esentepe mahallesi Adnan Menderes bulvarı No 54 Kat 5 Daire 13 Afyon ,Afyonkarahisar,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+30-01-2023,Süleyman Akay,Atakent sitesi B98 ,Kocaeli,KÖRFEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+30-01-2023,Mehmet parlak,Türkmen Sk. No:42 Kat:0 Daire:1,İstanbul,ÜMRANİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Bekir Kırlangıç,Güvenevler mah 23 nolu cad İstanbul erkek kuaförü ,Gaziantep,ŞEHİTKAMİL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Mücahit Mevlüt Gürdal,Konak Mahallesi Adliye Caddesi No:25 info Bilgisayar (Ata) Bilgisayar,Burdur,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Emre Paluluoğlu,Öveçler Mahallesi . Vezir Köprü Sokak. 4/17 Beyaz Saray Apartmanı   Çankaya/Ankara ,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Abdurrahman Alas,06112. Cadde No/1 B kat2 no 9,Gaziantep,ŞEHİTKAMİL,Salihli Kadın Girişimi Ev Yapımı Ayva Reçeli,400 gr,25.2,1,25.2,1.26,23.94
+30-01-2023,Abdurrahman Alas,06112. Cadde No/1 B kat2 no 9,Gaziantep,ŞEHİTKAMİL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Sezer Akan,Ordu Üniversitesi Rehberlik ve Psikolojik Danışma Merkezi,Ordu,ALTINORDU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Kerim Yıldız,Gültepe mah. 2055 cad.  Orkidepark Konutları G1 Blok  No:2/1 Kat:12 Daire:38,Ankara,ALTINDAĞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Yavuz OKCU,KEMER VETERİNER KLİNİĞİ     Kemerköprü  Mah. 155.Cadde No: 21/ B,Bartın,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Banu Ertuğrul,Dikmen Cd. No:568 Kat:2 Daire:7,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Emrah GÖKHAN KAYAN,KADIKÖY 34718 ACIBADEM BAKKAL SK. No:2 ORHANBEY APT. Da:3 ,İstanbul,KADIKÖY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Emrah GÖKHAN KAYAN,KADIKÖY 34718 ACIBADEM BAKKAL SK. No:2 ORHANBEY APT. Da:3 ,İstanbul,KADIKÖY,Salihli Kadın Girişimi Kooperatifi Toz Kimyon 100 gr,100 gr,18.0,1,18.0,0.91,17.09
+30-01-2023,Emine Öndüç,Süzer Sokak No:17 Kat:1 Daire:1,İstanbul,Üsküdar,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+30-01-2023,Abdulkadir Sağlam,Abdi ipekçi mah.4957 sok. No.156/A iç kapı no.1 eski çamlık Karabağlar İZMİR,İzmir,KARABAĞLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Recep Akbaş,Esentepe mahallesi alışık sokak no 7 daire 1,İstanbul,EYÜPSULTAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+30-01-2023,Kudbeddin Acar,Olivium AVM Beştelsiz mah. Prof. Muammer Aksoy Cad. No:30 ,İSTANBUL,ZEYTİNBURNU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Adem Yetim,aliya izzet begoviç blv no :38 Ecem apt. Kat:4 Daire:4 seranit üzeri,Adana,SEYHAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,TÜRKAN KEŞLİ,2474 sok no 14 kat 4 cati kati,İstanbul,SULTANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,TÜRKAN KEŞLİ,2474 sok no 14 kat 4 cati kati,İstanbul,SULTANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Buğra Yaşar,Gülyalı Caddesi Yeşilkent-1 Sitesi 10. Yıl Apt. No:17/26 Beylikdüzü,İstanbul,BEYLİKDÜZÜ,Salihli Kadın Girişimi Natürel Sızma Zeytinyağ,700 ml,105.8,1,105.8,5.31,100.49
+30-01-2023,İsmail Fırat Özsakarya,275/8 SOKAK NO:13 PAPATYA SİTESİ A BLOK KAT:2 DA:5 ,İzmir,BAYRAKLI,Salihli Kadın Girişimi Ev Yapımı Ayva Reçeli,400 gr,25.2,1,25.2,1.26,23.94
+30-01-2023,İsmail Fırat Özsakarya,275/8 SOKAK NO:13 PAPATYA SİTESİ A BLOK KAT:2 DA:5 ,İzmir,BAYRAKLI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+30-01-2023,bora baday,Seyitömer Sk. No:12 ,Eskişehir,TEPEBAŞI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,selma çetinkaya,"Mahfesığmaz mahallesi no.11 damarikoglu Bulvari uğur aptartmani B2 blok kat 1. Daire 5 Çukurova/Adana
+05443051226/ 05338842004",Adana,ÇUKUROVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+30-01-2023,MUHAMMET YURTTAŞ,AKÇABURGAZ MH. 3047. SK. NO:2 (TETAŞ),İstanbul,ESENYURT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+30-01-2023,Uğur Özgür,"Kültür Mah. Lozan Cad. No:58 Daire:3 Mimar Eda Kılıç ofisi( 11 nolu sağlık ocağı üstü, Aliağa belediyesi karşısı )",İzmir,ALİAĞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,izzet kadir emre sevim,Demet Sokak. No:29 Kat:2,Tekirdağ,SÜLEYMANPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,TÜRKAN KILIÇ,KUZEY MAH. YILDIRIMER CAD. NO:44 KAT:2-3,Kocaeli,KÖRFEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İbrahim Akyuz,Yeditepe Mahallesi 85255 sokak no:13 D:30 Arda Evler Şahinbey/Gaziantep (evde yoksam Korkmaz Terziye bırakılabilir) ,Gaziantep,ŞAHİNBEY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,eda hanta,Uzunyurt Sk.cagdas sit d blok No:18 Kat:6 Daire:20,İstanbul,KARTAL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Merve Baş,Çamlik mah. Keten sk. No:8 özkonak aitesi b blok k:8 d:18 ümraniye istanbul,İstanbul,ÜMRANİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ali Emre TERZİ,Kısmetli Sk. No:12-14 Kat:1 Daire:4,İstanbul,SANCAKTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ayçin Bayraktar,Selva sok örnekevler sitesi d blok daire 30 ,İstanbul,ATAŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ferhat Genişyol,Zümrütevler mahallesi Nurhan sokak no 45 daire 1,İstanbul,MALTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,İlker Elmascıoğlu,109 sk. Ugur apt. No.4 kat2 daire4 zil ( gullu akgedik ),Antalya,ALANYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,olcay sozen,BİLGİ KİTAP KIRTASİYE - ESENLER MAH. ADNAN KAHVECİ CAD. NO:5  MERKEZ / ÇANAKKALE,ÇANAKKALE,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kenan Topcu,Güneştepe Mahallesi Soğanlı Caddesi Zümrüt Sokak No:9 D:6 Güngören/İstanbul,İstanbul,GÜNGÖREN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İlker Elmascıoğlu,93552 sokak no: 11 ramazan kargı,Konya,EREĞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Osman çelikel,ABİDE MAH 623 SOK MURAT APT: KAT 5 DAİRE 11  MERKEZ/AĞRI MİS EKMEK FIRINI YANI CEP:545 231 24 60,Ağrı,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ismail karaduman,Alaplı İlçe Milli Eğitim Müdürlüğü-Özel Öğretim Bürosu Kabristan Caddesi Hükümet Konağı Zemin Kat,Zonguldak,ALAPLI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,megi paposhvili,9114. Sk. No:7 Kat:2 Daire:3,İzmir,KARABAĞLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Caner Baydar,2.NİSAN CADDESİ HAFİZİYE MAHALLESİ. CAMBAZOĞLU 2.SOKAK BAŞAKEVLER SİTESİ A BLOK KAT:4 DAİRE:9,Van,İPEKYOLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,EROL AYMAK,KARŞIYAKA MAH. FATİH CAD. 21.SOK. YEŞİL PARK EVLERİ B BLOK NO:3/3,Tokat,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kenan Topcu,Güneştepe Mahallesi Soğanlı Caddesi Zümrüt Sokak No:9 D:6 Güngören/İstanbul,İstanbul,GÜNGÖREN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,hyunjoo Park,"Buyukesat Kadin kahraman sk., Palmiye Apt 19., D.9",Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Nesrin Uzunkaya,Eroglan mah. 277.sk Asena sitesi c blok daire 18,Balıkesir,EDREMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,burcu öztürk,Şükrüpaşa Mahallesi Bahriye Üçok Caddesi no.38 Göreme Sitesi C Blok Daire.6,Edirne,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ali Ercivan,Kestel mah.toklar cad.blue beach sit. Seher Arslan ap. 4b no:18,Antalya,ALANYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Yılmaz Yıldız,Büyükdere Mah Atatürk Bulvarı Pemosan Apt No 170/8 Odunpazarı/Eskişehir,ESKİŞEHİR,ODUNPAZARI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,HALİME KALBAN DİRİK,218.sokak No:11 Kat:1 Daire:2,İzmir,ALİAĞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Birgül Yazgan,Gazipaşa mahallesi 66001 SOKAK no.16 Seyhan /Adana,Adana,SEYHAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mehtap Ukşal,Yenibağlar mahallesi taşdemir sokak maviden city platinium 24A kat2 daire 3,Bursa,OSMANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Emine Özbeyaz,204 sokak no:22 kat 2  Gaziemir Emrez mahallesi Mithat karabag parki yani,İzmir,GAZİEMİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,fatih cam,BİLİM SANAT MERKEZİ 17 EYLÜL MAH. ATATÜRK CAD. NO 80 Bandırma / BALIKESİR,Balıkesir,BANDIRMA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,sevil balkan,İnistanbul sitesi Maltepe mahallesi askeri fırın sokak f1 blok no64 zeytinburnu istanbul ,İstanbul,ZEYTİNBURNU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kamil Ersoy,Beyazevler Mah. 80047 Sokak İlkan Apartmanı No:1 Kat:3 Daire:5 Çukurova/ADANA,Adana,ÇUKUROVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Rabia Güngör,3022 sokak no 7 daire 3,İzmir,KARABAĞLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Burcu Özyumruoğlu,"Taşpınar mahallesi, 103030 sokak, toki konutları blok: y2/10 hadim/konya",Konya,HADİM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İrfan Yılmaz,Neviye Mah.Kısa Sk.No:20/3,Sakarya,ARİFİYE,Salihli Kadın Girişimi Ev Yapımı Ayva Reçeli,400 gr,27.2,2,54.4,2.74,51.66
+29-01-2023,İrfan Yılmaz,Neviye Mah.Kısa Sk.No:20/3,Sakarya,ARİFİYE,Salihli Kadın Girişimi Kayısı Marmelatı,400 gr,25.52,2,51.04,2.55,48.49
+29-01-2023,İrfan Yılmaz,Neviye Mah.Kısa Sk.No:20/3,Sakarya,ARİFİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Meral Bay,İhsaniye mah. Sakarya sok. Erol saçmacı efe prestij evleri no:22 b blok daire:5,Bursa,NİLÜFER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,hatice Yurtseven,Yükseltepe mahallesi 1818.sokak Vadikent sitesi 4A blok no:30,Ankara,KEÇİÖREN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Vildan Artar,Atmeydani mah .saray sok.selamet apt.no.8 daire 17,Rize,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Türkay Yazıcı,FELİX VETERİNER KLİNİĞİ - KILIÇ REİS MH. MAH. 319. SK. SOK. NO:51  POSTA KODU:35280 / KONAK / İZMİR,İZMİR,KONAK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mahmut ESKİCİ,Güvenevler mah 29001 caddesi Emniyet evleri sitesi Mevlüt Çil apartmanı kat 5 daire 18 Şehitkamil Gaziantep ,Gaziantep,ŞEHİTKAMİL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Esra Tuğba Demirel,Ulupınar cad.Yargı sitesi No:47/C Kat:6 Daire:25,Ankara,ETİMESGUT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Büşra Kuşkonmaz,"Bahçeşehir 1.Kısım mah. Seyhan Cad. No:74 Baaşakşehir / İSTANBUL
+İBB KANUNİ SULTAN SÜLEYMAN ORTAOKULU",İstanbul,BAŞAKŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Müge Bilgin,Yeşilce mahallesi DemirBaş sokak no:4 paşafırını üretim ,İstanbul,KAĞITHANE,Salihli Kadın Girişimi Kuru Basım Yaprak 400 gr,400 gr,54.0,1,54.0,2.71,51.29
+29-01-2023,Müge Bilgin,Yeşilce mahallesi DemirBaş sokak no:4 paşafırını üretim ,İstanbul,KAĞITHANE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ahmet Toksoy,Tuzluçayır Mah. 586.Sk. No:15/16 Duygu Apt. Kat:2,Ankara,MAMAK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,YUSUF mutlu,M.FEVZİ ÇAKMAK SOKAK NO.21 Z.2 ,Mardin,NUSAYBİN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,turgay zeybek,İmar Sk. Palaz apt A blok No:30 Kat:9 Daire:27,Kayseri,KOCASİNAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kahraman Ergül,Kemer cad.yeşil vadi evleri.no.92 E blok E1 Ortakent Yahşi mahallesi.,Muğla,BODRUM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,deniz akbulut,YENİMAHALLE MAH. 3172.SOKAK NO :2 DENİZ APT. Kat:6 D:14,Samsun,ATAKUM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,SERKAN ÖZTÜRK,STADYUM ARKA SK ERDAL İNÖNÜ CD AYYILDIZ AP 15/5 ,Tekirdağ,ÇORLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,NERMİN GÜNEY ÇOKCAN,Bozova sokak Çokcan AP.no.3 da.6  Mecidiyeköy ,İstanbul,ŞİŞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Fadime Bozkurt,Evliya çelebi Hastanesi Ana Bina Tpn ünitesi 2 kat,Kütahya,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,OKTAY KUL,Çünür mah. 5477 sok. Gökçeay Sitesi 1A Kat:3 No:13  (İyaş marketin bulunduğu site),Isparta,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,tuncer bulbul,"Piri reis mah. Necip Fazıl Kısakürek Caddesi , İsthanbul Evleri Han 7 A4 Daire: 20 - Beylikdüzü/Esenyurt",İstanbul,ESENYURT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Fatih Aras,Merkez mahallesi Büyükdere caddesi no:13/b,İstanbul,ŞİŞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İrfan Elik,İsmetpaşa mahallesi Ordu caddesi 142 sokak no 17 /3 Sultangazi,İstanbul,SULTANGAZİ,Salihli Kadın Kooperatifi Salamura Yaprak,1 Adet,130.0,3,390.0,19.58,370.42
+29-01-2023,Ayhan ÖZKAN,547.sk.Bilal 2 Apt.kat.7 no:16,Şanlıurfa,HALİLİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,serdar akbıyık,Yenice mah kaledağ koop evleri cengiz sokak 49/3 elmadağ ankara,Ankara,ELMADAĞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ferdi Aras,İsmetpaşa mahallesi 99 sok.no.10. daire 2 giriş kat Sultangazi/ istanbul,İstanbul,SULTANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Güler Baş,BÖLGE JANDARMA KOMUTANLIĞI  KIBAR KORHAN KOÇ LOJMANI DAIRE 10,Giresun,MERKEZ,Salihli Kadın Girişimi Ev Yapımı Ayva Reçeli,400 gr,27.2,1,27.2,1.37,25.83
+29-01-2023,Güler Baş,BÖLGE JANDARMA KOMUTANLIĞI  KIBAR KORHAN KOÇ LOJMANI DAIRE 10,Giresun,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ekrem Binici,Necatibey cad. No:43 Karaköy İstanbul ,İstanbul,BEYOĞLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Fatih Aras,Merkez mahallesi Büyükdere caddesi no:13/b,İstanbul,ŞİŞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Erdi İŞSEVEN,Dumlupınar Mah. 583.Cad. (MSB ORAN LOJMANLARI) Çalışkan Apt. Blok No:2/3 İç Kapı No:34 (05058798023) ,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mehmet Özkan,Veysel Karani Cd.Ataşehir Konutları No:E blok Daire:4,Konya,SELÇUKLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hasene Kayışkıran,Atikali mah silistre sok no 12 feza apt Daire 1 ,İstanbul,FATİH,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ertan Aslan,mihraplı plaza iller bankası b 1,Bursa,NİLÜFER,Salihli Kadın Girişimi Kayısı Marmelatı,400 gr,25.52,2,51.04,2.55,48.49
+29-01-2023,Ertan Aslan,mihraplı plaza iller bankası b 1,Bursa,NİLÜFER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,Yıldız yazıcı,Bahçelievler mahallesi 1840 sokak No:4 iç kapı no: 1 Yenişehir MERSİN,Mersin,YENİŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ufuk AÇIKGÖZ,Vezirler Cad. No:18 Kat:14 Daire:28,Kayseri,KOCASİNAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,kemal göç,AKSARAY EĞİTİM ARAŞTIRMA HASTANESİ SATINALMA BİRİMİ SANAYİ MAH.92. TACİN CADDESİ NO:1 ,Aksaray,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Talat ULUĞ,YILDIZTEPE MAHALLESİ KAVACIK CADDESİ CANBAYLAR TEPE TOWERS SİTESİ NO: 81/3 C BLOK K:6 D:14 ,Malatya,BATTALGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mesut Delibaş,Tömük Merkez Mah. 32. Sok. No. 5/F  PTT Yanı nur erkek kuaförü ,Mersin,ERDEMLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,Meral Açıkgöz,19 Mayıs mahallesi çubuk sokak No:4 Kat:2 Daire:13,Ankara,Keçiören,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Lalen Ertuğrul,Turğut özal mah enderun 1.sok korint park evleri b blok kat 5 no 19 malatya,Malatya,YEŞİLYURT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Fatma Şişman,222/24. Sk. No:15 Kat:giriş Daire:1,İzmir,BUCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ahmet Levent ŞİRAMAN,Dökümcüler cad 1545 sk no 10 B ,İstanbul,BAĞCILAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,BEKİR KOÇARSLAN,Çavuşpaşa caddesi şirin sokak no 35 kat 2 daire 3 bahçelievler  istanbul,İstanbul,BAHÇELİEVLER,Salihli Kadın Girişimi Ev Yapımı Ayva Reçeli,400 gr,27.2,1,27.2,1.37,25.83
+29-01-2023,BEKİR KOÇARSLAN,Çavuşpaşa caddesi şirin sokak no 35 kat 2 daire 3 bahçelievler  istanbul,İstanbul,BAHÇELİEVLER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,sevgi Aktaş,Doruk sokak. 17/4,Ankara,ALTINDAĞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,selim bayram,Millet mah 7202sk no 12a blok daire 9 özerkent sitesi yıldırım Bursa ,Bursa,YILDIRIM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İrfan Elik,Menteşe sokak no 70 daire 11  mutlaka arayın ,Ordu,ÜNYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İrfan Elik,Menteşe sokak no 70 daire 11  mutlaka arayın ,Ordu,ÜNYE,Salihli Kadın Kooperatifi Salamura Yaprak,1 Adet,130.0,4,520.0,26.1,493.9
+29-01-2023,Özlem Çayır,Karayemiş sokak No:25,İstanbul,SARIYER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Berkan ÖZBAYLANLI,şehit ceysu ceylan sk. aliye apt. no:75 k:2 d:2 hatay/konak/izmir,İzmir,KONAK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,candan yılmaz,Burhaniye mahallesi mimar Sinan caddesi no 54 İnegöl devlet hastanesi insan kaynakları birimi 16400,Bursa,İNEGÖL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Hasan Serkan Kanak,Nur Mahallesi 11. Cadde 3. Sokak Yeni Toki Polis Lojmanları DG2/B Blok Daire:9,Mardin,ARTUKLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Bahriye bahar Korkmaz,Hasan Yılmaz caddesi no:7 sudeks busekent sitesi C blok daire:1,Kocaeli,KARTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Bahriye bahar Korkmaz,Hasan Yılmaz caddesi no:7 sudeks busekent sitesi C blok daire:1,Kocaeli,KARTEPE,Salihli Kadın Girişimi Zeytinyağlı Çeşnili Kuru Domates,220 gr,40.5,1,40.5,2.03,38.47
+29-01-2023,Bahriye bahar Korkmaz,Hasan Yılmaz caddesi no:7 sudeks busekent sitesi C blok daire:1,Kocaeli,KARTEPE,Salihli Kadın Girişimi Ev Yapımı Ayva Reçeli,400 gr,27.2,1,27.2,1.37,25.83
+29-01-2023,Mücahit EKEN,Yavuz Sk. No:35 Daire:8,İzmir,ALİAĞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yusuf Kenan AYDOĞAN,Hasanbey caddesi tekin apartmanı no 12kat ka4 ,Malatya,BATTALGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Yaşam Kaplan,Yeni mah.Terminal Cad.Akkaya Apt.161 Kat :4 No:8,Antalya,ELMALI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Aysel Eda Şengül,emek mah. kışla cad. azmet sitesi A2 blok no:3 Safranbolu/KARABÜK ,Karabük,SAFRANBOLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hasan Kardaş,Bahçelievler 5028. Sk. No:3 Kat:1 Daire:1 İşkur Manavgat Hizmet Merkezi,Antalya,MANAVGAT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kalip Şahin,Cengiz Topel caddesi Sembol sok. No:2 Suzan Ap. Daire:3,İstanbul,BAHÇELİEVLER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Esma Yaxıcı,"İhsaniye Mah. Cenk Sk. Coşkunlar Kayı Evleri 1/D Blok Kat:2 Daire:3
+",Bursa,NİLÜFER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,ÜLKEN OKAN,Kumla Mahallesi Abdullah Aslan (Siteler) Caddesi  Altay Sitesi (lili marllen kafe ustu) A1 Blok(266A) Kat 6 Daire 146 (22) KüçükKumla - Gemlik -BURSA,Bursa,GEMLİK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Neşe Altun Başa,Muratbey mahallesi Hayrabolu cad no 108 Çatalca ,İstanbul,ÇATALCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ömer Faruk Çandır,"Petrol Ofisi Bornova - 10479 , ANKARA CAD. KAZIM DİREK MAH. NO:235 ",İZMİR,BORNOVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Nagehan Özkoç,"Petrol Ofisi Menemen - 1169 , Mermerli Mah, İnkılap Cd. No:68, 35660 Menemen/İzmir",İZMİR,MENEMEN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Erdem Çapraz,Katar Cd No:21.giriş Kat:2 Daire:3,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hüseyin Özkaymak,4590 sk.no 8 sevgi mh. Bozyaka,İzmir,KARABAĞLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Arif Baştürk,"İl Sağlık Müdürlüğü 
+Dervişpaşa Mh 
+Dr. Mahmut Hoca Cd
+",Afyonkarahisar,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Hülya Celepoğlu,1482 sokak sera apt. no :12 Daıre:6 kat:2,Antalya,MURATPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Tuncay ŞENGÜL,"Barış cad. No 61 kat 4
+   Tel  : 0505 3748176",İzmir,SELÇUK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Eyüp Ardıç,gülsuyu Caddesi gül apt No:30 Kat:1 Daire:5,Ankara,SİNCAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,yasemin şahin,Omerbey mah. Bursa asvalti no:53 16941,Bursa,MUDANYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yusuf Demir,Gaybiefendi Mahallesi Atatürk Bulvarı No 83 Kütahya Belediyesi Gündüz Çocuk Bakımevi Kreş Zemin Kat,Kütahya,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Sema Gürbüz,Beylerbeyi çamlıcacaddesi sera sokak Burhan sitesi a blok daire 20,İstanbul,ÜSKÜDAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Cansu Kar Hacioğlu,Beyazevler mah. 80018 sk. Gül apt A blok 3/15 ( mid gross market karşısı ),Adana,ÇUKUROVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hayrettin TÜRK,"Hafsa Sultan Mahallesi
+Mimar Sinan Caddesi
+No:140 Da:38",Manisa,YUNUSEMRE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ahmet Aksu,Gazipaşa mah Kışla cad Sabit eren apt.no:9/3 Dulkadiroğlu Kahramanmaras,Kahramanmaraş,DULKADİROĞLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Onursal ÜNAL,Görükle Mah. Üçoluk Eğitim Cad Kavşağı - Erdalkent Sitesi A Blok - Bina No: 12 - Daire 13,Bursa,NİLÜFER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Yunus UĞUZ,6820. Sk. No:28 Kat:8 Daire:31,İzmir,ÇİĞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,yasin karakoç,KONYA ADLİYESİ 5. AĞIR CEZA MAHKEMESİ KALEMİ (F BLOK 2 KAT. ),Konya,KARATAY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,hülya inal,Bayraktar mh. 3036 nolu sk. No:6 Kahta/Adıyaman,Adıyaman,KAHTA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,gökhan özkardaş,712.sok Hünkar konaklari c blok d:2,Bursa,NİLÜFER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Tenzile Samut,Yenibağlar mahallesi.Yılmaz sokak no 18 /1 Anıl gıda bakkal,Eskişehir,TEPEBAŞI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Kerem Lale,Mareşal çakmak mahallesi öğretici sokak no 33 daire 5 Güngören/İstanbul,İstanbul,GÜNGÖREN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,FATMA USTAÖMEROĞLU,Tepecik Mah. Gebi Cad. No:331B (Yalçınkaya Evleri) Kat:3 Daire:12 İlkadım/SAMSUN  ,Samsun,İLKADIM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,muzaffer destanoğlu,Kartaltepe mahallesi Abdurrahim Karakoç sokak no 6 daire4 Bayrampaşa/ist,İstanbul,BAYRAMPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İmdat Işılak,Başpınar mahallesi 1656 CAD Beyazlale apartmanı No 23/23 kat 7 Altındağ Ankara,Ankara,ALTINDAĞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Abdullah Taşan,Harmancık Mh Dalboy sk no.7 ( Cam Sk içerisi park karşısı),Konya,MERAM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,muammer erdoğan,Oruçreis Mahallesi Oğuzhan Caddesi No 10/A Candan Bilgisayar,İstanbul,ESENLER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,VEYSİ OKTAYKAAN,Akkent 5.cad.Bilimkent sit.F/BLK.Huzur Apt.10/38      Yenişehir/MERSİN,Mersin,YENİŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,mustafa celik,Huzurevleri mah.Turgut özal bul.77232 sok.Kenan şenbayrak sitesi Abl.kat6daire11 ÇUKUROVA/ADANA ,Adana,ÇUKUROVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Tülay Kahvecioğlu,Burak mahallesi 06091 sokak lale evler sitesi c blok no:5 kat7 daire32,Gaziantep,ŞEHİTKAMİL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Leman Çınlar,Yeni Mahalle 33215 Sokak Suits Sitesi No:35 Kat:1 Daire:1,Mersin,MEZİTLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Bünyamin BAL,GAZİ MH. 550. SK. MUTLU SİTESİ B-2 BLOK NO:16/1 DA:3 AFYONKARAHİSAR.,Afyonkarahisar,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,rukiye bilge,19 mayıs caddesi bolluk sokak 4/7,Ankara,KEÇİÖREN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,mehmet yusuf şirinkan,AZİZ SANCAR MESLEKİ VE TEKNİK ANADOLU LİSESİ Atakent Mah. M.Selahattin Çolak Bul. No:9,Adana,YÜREĞİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ayşe YILMAZ,Aşağı Kayabaşı Mah bahçe sokak elif park sitesi no6 k2 d6 ,Niğde,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,YUNİS BALAMAN,ELMALIKENT MH   ŞEHİT SERDAR EYÜBOĞLU CD    GÜZEL. SK.  NO:3. D: 2. ÜMRANİYE. /. İSTANBUL,İstanbul,ÜMRANİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,Ahmet Bayram,Şevketiye mahallesi 270 sokak no:31/A Askerlik şubesi yani A101 Mağazacılık ,Aydın,ÇİNE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Suna Çetinkaya,Çetinkaya şarküteri,Batman,KOZLUK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Kezban Taş,Mehtaplı Sk. No:20 Kat:2 Daire:2,Eskişehir,ODUNPAZARI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ahmet Çelebi,Kılıçarslan mah mümin sok okyanus konağı apartmanı 44/21,Kayseri,MELİKGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,DAVUT AY,Özcan Sokak no:8,Siirt,PERVARİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ömer karakuş,Dikilitaş Mevkii No:199/1 ÇAMLIDERE EMNİYET MÜDÜRLÜĞÜ Ömer KARAKUŞ,Ankara,ÇAMLIDERE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Destan Kılıç,Uğurmumcu Mah. Şeyhşamil Cad. Neslişah Sk. No:9 Up City Flats B3 blok D.46,İstanbul,KARTAL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Serdar DÜNDAR,Cumhuriyet mah 5065 sok no:31,Antalya,SERİK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Nesrin Uzunkaya,Eroglan mah. 277.sk Asena sitesi c blok daire 18,Balıkesir,EDREMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,İdris Eker,Köşklü Çeşme Mahallesi 511 sokak No 3 Daire 1,Kocaeli,GEBZE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ümit ışık,Selçuklu mah.kutay sok. 6/1 çavdar apt.,Ankara,SİNCAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,ercüment yurduseven,küçüksu mh metin sk no-20 karmen sit c blok d-21,İstanbul,ÜSKÜDAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Filiz Erol,Kumburgaz mah umut cadde 12 /5,İstanbul,BÜYÜKÇEKMECE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İsmail Alsancak,Çanta Caddesi silivri Ceza İnfaz kurumu lojmanları yasemin apt. Kat 4 No 14,İstanbul,SİLİVRİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Emine Kul,Şehit İsmail türe caddesi no 25 ramazan iba apt no 25c.2/3 no.11 kat.3 TOKİ lojmanlari,Çanakkale,GELİBOLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,OKTAY ELMALI,Muratpaşa İmam Hatip Ortaokulu 1606 sokak NO.6,Antalya,MURATPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Rumeysa Varilci,"Tuncay Sk. No:17Kat:3 Daire:a16
+Berat sitesi",İstanbul,ÜMRANİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Osman Sivrikaya,84213. Sk. Mina Apt No:3 Kat:5 Daire:10,Adana,ÇUKUROVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Emine Şimşek,Yedi tepe mahallesi 85110 nolu sokak TURGAY APARTMAN KAT 2 daire 5,Gaziantep,ŞAHİNBEY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ismail Burkan,863. Sokak no.2 C blok kat.5 daire.9 Royal Life sitesi ,Samsun,İLKADIM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hüseyin Yılmaz,Kazımdirik mah 294 sok cilem apartmanı no 23kat 3 daire 8 İzmir Aliağa ,İzmir,ALİAĞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Aydın Saltan,"Bahçelievler Mah. Evcil Sokak. Hazal Market aşağısı. 
+No:7 
+Şırnak/ Merkez",Şırnak,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Zübeyr Arabacı,Yenice Mahallesi Lütfi Soylu Sokak Taciroğlu-2 Apartmanı No:12/16 MERKEZ/NİĞDE,Niğde,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Kevser Adıgüzel,Barış mah 106 nolu sokak no11 kat 3 daire 5,Bursa,MUSTAFAKEMALPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mehmet vural,Girne mah. 6017nolu sk no 17 KAHTA ADIYAMAN,Adıyaman,KAHTA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,Neşrah Civelek,inönü mahallesi arifoğlu caddesi no 17 kat 3 ,Kocaeli,GEBZE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yiğit Heybeli,"Mehmet Ali Akman mh. İnönü caddesi, No : 690 Daire 5 Kat 2 Tırnaklı apartmanı 35290",İzmir,KONAK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ramazan Kaya,239. Sokak SEV-KA apt. dış kapı:18 kat:3 no:5 ,Diyarbakır,KAYAPINAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ömer Rahat,Çünür mah. 5483 sok. Çeliktepe 2 sitesi No:6 c blok daire 18 GÜVENLİĞE BIRAK,Isparta,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yusuf ALTUN,Zümrüt evler mah Hisar sok Altunoğlu apt B blok no 9 kat 5 daire 16,İstanbul,MALTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Süleyman Demirci,Yeni Yalova Yolu Umurbey san.bölgesi No:128,Bursa,GEMLİK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Süleyman Demirci,Yeni Yalova Yolu Umurbey san.bölgesi No:128,Bursa,GEMLİK,Salihli Kadın Kooperatifi Salamura Yaprak,1 Adet,130.0,1,130.0,6.53,123.47
+29-01-2023,Fatih Yılmaz,556.sokak no 7/1,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,hayri kömür,"çepni mah. inönü cad. no:72 Orman İşletme Müdürlüğü K:4
+Merkez/ÇORUM",Çorum,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ceyda Akcatepe,Bitez mah. Gulsum cakir cad. Cakir residence no:1 A BLok daire:1,Muğla,BODRUM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Adem Atçeken,Köprübaşı Mah. Sultan Ahmet Sok Aksaray Sitesi B5 Blok No:13/12 Karatay / Konya,Konya,KARATAY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mustafa HANCI,1059/1. Sk. No:1 Kat:1 Daire:2 Güler Düğün Salonu Karşısı TT Lojmanı,İstanbul,GAZİOSMANPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,orhan geçol,Güventepe cad. Sis panora konutları No:58/B 7,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ahmet Faruk Küçük,Tuzcumurat mah Akova cad. 148 sok. Hasan kasabalı apt No32 kat2 d4,Balıkesir,EDREMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,AHMET BAHADIR,Cumhuriyet Mah. 542. Sok. No:1/2,Nevşehir,AVANOS,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Gülsüm Kurt,Medya mahallesi 173.sokak hatipoğlu şelale evleri 2 A blok kat 10 no 30 metropol kayapınar ,Diyarbakır,KAYAPINAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Bilal AKIN,abdurrahmangazi mah. kasaba sok.no:1 B/Blok D:12 sancaktepe/istanbul,İstanbul,SANCAKTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Esin İşcan,1.menteş sok No:22 Kat:8 Daire:34,Bursa,OSMANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Zeki Karakaya,a kahveci cd seval sk baykur sitesi a blok  No:5 Kat:7 Daire:16,İstanbul,KARTAL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Gökhan Dolapcı,TUNA MAHALLESİ 670 SOKAK NO 16 DAİRE 8 ESENLER / ISTANBUL ,İstanbul,ESENLER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,ABDURRAHMAN YALÇIN,İstasyon mah. 1408. Sok. No:7 D.4 Gebze Kocaeli,Kocaeli,GEBZE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ali Yüce,Kemalpaşa mah. 7080 sokak no:7 Bornova /İZMİR Er-sa Kimyevi maddeler,İzmir,BORNOVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,mehmet zeki kale,303. Sk.birsel aprt No:6 Kat:1 Daire:2,Aydın,KUŞADASI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,COŞKUN SONER ÖZDEMİR,1872 Cadde 6/11 Kat 4 Yunus Eren apt.,Ankara,ETİMESGUT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Tuğba Efe,Kayacık mahallesi Şirin kaptan mevki Bahçelievler sitesi 240. cadde 3.kısım E blok kat 1 daire 1 Kocaeli Karamürsel ,Kocaeli,KARAMÜRSEL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Nursel Mafke,Çavuş Mah. Cumhuriyet Cad. Aye Apt. No.92 D.3 (apartman girişi Söğüt Sokak 8 numaralı ahşap evin yanından),İstanbul,ŞİLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ahmet bayat,Cahit sitki taranci caddesi menekse apartmani kat2 no4 ,Eskişehir,ODUNPAZARI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Efraim DOĞAN,Emek Boru Makina Sanayi ve Ticaret A.Ş ASO 1.Organize Sanayi Bölgesi Türkmenistan Cad. No:2 Sincan / Ankara,Ankara,SİNCAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ÇİLEM ÇELİK,ŞERİFALİ MAHALLESİ ÇETİN CADDESİ SARIGELİN SOKAK EMRE APT.NO:12/10,İstanbul,ÜMRANİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,GÜLDENİR KURTAR,İmar Limited Sokağı No:14 Daire:14,İstanbul,KADIKÖY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ali Bektaş DOĞAN,1445.Sk. No:5 Kat:1 Daire:3,İstanbul,ESENYURT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hüseyin Acar,Çayyolu Alacaatlı Mah. Canatabilge Sitesi 4835. Cad. No 1 G-Blok Daire No 46,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mehmet Kanarığ,Üçkuyu mahallesi Üçkuyu sokak yeni jandarma lojmanları b13 12 Yenişehir Diyarbakır ,Diyarbakır,YENİŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,BAŞAK KARLI YILMAZ,Karşıyaka mahallesi 464.cadde No :29 Gökkuşağı sitesi karşısı,Ankara,GÖLBAŞI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hatice CITIZ,4137.sokak yildizsoy apartmanı kat: 3 daire no:5 ,Şanlıurfa,KARAKÖPRÜ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Omer Lale,"Gündoğdu, 2459. Sk. 36/3 , 07060 Kepez/Antalya, Türkiye",Antalya,KEPEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,MECİT ÇALIŞKAN,Altayçeşme mah.varna sok no 15 /A4 MALTEPE İSTANBUL,İstanbul,MALTEPE,Salihli Kadın Girişimi Ev Yapımı Ayva Reçeli,400 gr,27.2,1,27.2,1.37,25.83
+29-01-2023,MECİT ÇALIŞKAN,Altayçeşme mah.varna sok no 15 /A4 MALTEPE İSTANBUL,İstanbul,MALTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kadir yıldırım,Bursa/Yıldırım Değirmenönü mh 1.Sevil sk no 3 kat 1,Bursa,YILDIRIM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Furkan Çelebi,atakent mah. 235. sokak akasya 1 evleri c3-22 daire 28 kat 6,İstanbul,KÜÇÜKÇEKMECE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Merve Uygur,Bağlarbaşı mahallesi 438. Sokak 6/8 Keçiören Ankara ,Ankara,KEÇİÖREN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Sevil Şentürk Yavuz,2656 sokak Apaydın apt no 12/5 Dokuma Kepez Antalya ,Antalya,KEPEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,mesut şahin,yenice mah. dr.sadık ahmet bulvarı inci kent f-5,Kırşehir,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Osman Pakma,Muslihittin mah. Camcı Sok. Şahbudak Apt. No:11 D:11,Muğla,MENTEŞE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,AHMET AKDAĞ,MİMAR SİNAN MAH. 196. SOKAK NO:11 YEŞİM SİTESİ D BLOK KAT:9 DAİRE:28,Samsun,ATAKUM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,gülten altan,Okcular 1143 sokak no 3,Muğla,ORTACA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,kadir yağan,Gizem sk.Safir Konakları B1 Blok Daire:30,Kocaeli,DERİNCE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hatice CITIZ,4052. Sk. No:1 Kat:3 Daire:5  yolcu 3 apartmanı ,Şanlıurfa,KARAKÖPRÜ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mert Aslan,Cumhuriyet Mah. Hal Cad. No:7 D:5,Aydın,İNCİRLİOVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,çağla yazla,Kasımpaşa mahallesi Demirdöküm caddesi 116/1 sokak No:5 daire:9 kat:3 özberk apt ,Bilecik,BOZÜYÜK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ali Çoprak,Zafer mah. Atatürk cad. No:14 kat:3,Aksaray,AĞAÇÖREN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,emre erhun,Damlacık Sk. No:6 Kat:1 Daire:4,İstanbul,PENDİK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,erkut gürler,alidede mah.karasoku 5 sok.güzel mısır çar.kat:2 no:2,Adana,SEYHAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ALİ AKSOY,Şeker Mahallesi Yeni Sanayi sitesi 3. Cadde 6166 Sok No.15 Aksoylar Transit Kaporta Servisi ,Kayseri,KOCASİNAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Fatih özlü,"Mehmet Akif Ersoy Mah. Yeşilay Caddesi, Yda Park Avenue, G Blok, No:155",Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Canan Ağca,Hacıyusufmescid mah Ahmet Hamdi Göğüs Cad Bakangold Sitesi 89B Kat:3 Daire:12 Karatay/Konya (a101 üstü),Konya,KARATAY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hayrullah Koçak,Şeyh Osman mah. Eski Toki evleri D 31 blok no12 Merkez Yozgat ,Yozgat,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mehmet Dinç,"Mardin çimento fabrikası
+Mardin çimento fabrikası
+
+ARTUKLU / Mardin
+Düzenle
+mardin",Mardin,ARTUKLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Erdal tasdemir,479 sokak no 12 Kızılay mahallesi kat 22,İzmir,BORNOVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,MEHMET SERHAT DİRİ,448. Sk. Özsubaşı Life A Blok No:2/1 Kat:5 Daire:9,Aydın,İNCİRLİOVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Emine Sarıkayalı,Mevlana mah. Akbülbül caddesi Mevlanapark apt. No12/39 talas kayseri ,Kayseri,TALAS,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,levent mahir can,çayırönü cad. sevecen sok. papatya apt No:1 Kat:1 Daire:1,İstanbul,ÜMRANİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Emre Can Uysal,Kürkçü Sk. No:2 Kat:3 Daire:6,Tekirdağ,ÇORLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Tuğba Durukan,Pınarbaşı mah doktor Sadi cad bizim toptan market ,Hatay,İSKENDERUN,Salihli Kadın Girişimi Kooperatifi Toz Kimyon 100 gr,100 gr,18.0,3,54.0,2.73,51.27
+29-01-2023,Tuğba Durukan,Pınarbaşı mah doktor Sadi cad bizim toptan market ,Hatay,İSKENDERUN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ömür GÜMÜŞSOY,Çalılıöz Mah. Ahmet Ayık Cad. No:66 Medine Apt. Kat:1 Daire :3 Giriş Kat Kırıkkale/Merkez,Kırıkkale,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Zafer AKBAŞ,Fatih sokak akasya Apt No:8 Kat:4 Daire:14,Düzce,AKÇAKOCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,ferhat Orhan,Gökevler mah Kristalsehir sitesi 10. Blok kat:25 d:213 esenyurt,İstanbul,ESENYURT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Cabbar ATEŞ,"Aşağı Kayabaşı Mahallesi , Zemerdin Sokak , Alsancak Apt. Kat:11 Daire:42",Niğde,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Serdar Erdoğan,Sehit mustafa gundogdu mahallesi Fakulte caddesi polis lojmanlari K5 blok kat 1 daire 1,Bingöl,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,ali bodur,Gezi yolu sok no10 kat7 dr16 Kartal ist ,İstanbul,KARTAL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kaan Gökgöz,Barış mah. Eğitim Vadisi Bulvarı No:31 Vira İstanbul sitesi B4 Blok D.76,İstanbul,BEYLİKDÜZÜ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Seher Yağcı,Mimar sinan mahallesi kervan cd no 13daire 3 yıldrım bursa,Bursa,YILDIRIM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,MUSTAFA BALTA,İSTİKLAL MAH. GELIBOLU CAD. TEVFİK BEY SİTESİ. NO:30 DAİRE:35 KAT:9 ÜMRANİYE,İstanbul,ÜMRANİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Zeynep Baydemir,Aslan Sokağı No:30 Kat:8 Daire:17,İstanbul,KARTAL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ramazan yazgıoğlu,Erkilet General Emir Mahallesi 4487. Sokak No:14/1,Kayseri,KOCASİNAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İlker Çiğdem,Adil MH. 4.Murad CD. Höyük sk. No:12/2 Sultanbeyli/İstanbul,İstanbul,SULTANBEYLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,MEHMET AKGÜL,Sarıcalar mahallesi yunus Emre caddesi Göksu park evleri A blok kat 2 no 4 silifke ,Mersin,SİLİFKE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,fatih bozkurt,Atatürk mh Duisburg blv golden House sitesi D blok K.6,Gaziantep,ŞEHİTKAMİL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Fisun Bakkal,M.kemal paşa mah ümit şok no 86 daire 3,İstanbul,AVCILAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İlhan Çifçi,Mehmet Akif Ersoy mahallesi Teyyareci Mehmet Ali caddesi hacı çıkmazı no1/ 3,Bursa,YILDIRIM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,hidayet tepe,belediye başkanlığı ivrindi balıkesir,Balıkesir,İVRİNDİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,erkan murat,Kartal Sok. Teyyare 2 Apt. Kat:9 No:34,Ordu,FATSA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ahsen Erciyes,Demokrasi mahallesi emniyet 1.cadde bayrak apartmanı no 9 kat 7/13 Melikgazi Kayseri ,Kayseri,MELİKGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Serap Berberoğlu,Pazar Ptt Merkez Müdürlüğü Pazar/Tokat,Tokat,PAZAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İbrahim Özpiricci,Topçular mah. 3056 şok. 5/12,Kocaeli,GÖLCÜK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Mensure Özyılmaz,Mesudiye mahallesi Fasih Kayabalı Cd. No:85 Kat:4 Daire:7,Mersin,AKDENİZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,mehmet fuat topcuoğlu,Nisa caddesi şehit Mustafa Aktaş sokak Nisa blokları büyük Timur apartmanı kat 3no14 ,Nevşehir,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Celal Üstünel,Kutlu Mahallesi 459 sokak 11/23 Medine Apartmanı,Ankara,MAMAK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Harun Can,359. Cd. No:46 Kat:3 Daire:7,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Ev Yapımı Ayva Reçeli,400 gr,27.2,1,27.2,1.37,25.83
+29-01-2023,Abdulkadir Yorulmaz,Esenevler mahallesi Erdoğan caddesi Türker sitesi I blok kat 4 no 8 ,Bursa,YILDIRIM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mustafa Küçük,Siyavuşpaşa Mah. Çamlık Cad. Özgüven Apt. No:7 D:10,İstanbul,BAHÇELİEVLER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Doğukan güven,Küçükçiğli Mahallesi 8783 Sokak No 6 Kat 1 Daire 1 Çiğli İZMİR,İzmir,ÇİĞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,Şayeste Pınar Aksu,Veysel Karani CAD. Güney sokak Özde sitesi D blok no:8 daire:10,İstanbul,EYÜPSULTAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Selçuk EROL,Karapürçek mahallesi 308.sok no 15/10 Altındağ/Ankara,Ankara,ALTINDAĞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Gülay Aşar,park sokak Himmetoğlu apt kat:2 No:5,Sivas,ŞARKIŞLA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Emre Düldül,Yıldıztepe MH 4/5 sk no:4 d:17 (ata sitesi ),Aydın,NAZİLLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Sümeyye Kayar,Emek mahallesi asmalar sokak no 8 daire 1 Eskişehir Odunpazarı ,Eskişehir,ODUNPAZARI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Serdar Uzun,Akmaz sokak lavinyacity a2 blok d:38 ,İstanbul,BÜYÜKÇEKMECE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ahmet Durmaz,Kıbrıs Şehitleri Blv. Kristal Apt. No:24 Kat:1 Daire:1,Batman,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Nergiz Özdemir,Petrolkent mahallesi 2859. sokak no:57,Batman,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mucahit Komurcu,15 Temmuz Mah. Fevzi Cakmak Cad.1400.Sokak No:24 Daire:1 dükkan kat ,İstanbul,BAĞCILAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ebubekir Mert,sungur mah .pırlanta apt kat 7 no.13 darende malatya 536 411 72 38,Malatya,DARENDE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Cengiz Bilgiç,33/Şehit Polis Yavuz Bayal Cad. No:21/5-19 Kısmet Apt. Kapı no:19 Yörük Efe Şiş Lokanta üstü Lunapark karşı,Aksaray,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mustafa Coşkun,Sanayi Sokak no:8,Van,ERCİŞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yasin Topcu,İsmetpaşa mahallesi Mustafa Kemal sokak 19/A Osmangazı yapı denetim Bilecik merkez ,Bilecik,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Volkan Bayar,Yeni mahalle 26187 sk güzeldoğa sitesi A blok kat3 no7,Adıyaman,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kadir Karaal,15 Temmuz mahallesi Yazıköy toki konutları B1-14 kat 1 daire 4 ,Karabük,SAFRANBOLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Seyfullah Sefer,Çavuşlu E70 (eserli 100mt ilerisi) No:2 Kat:1 Daire:2 ( lütfen ev teslim gönderiniz kargocu çavuşluya geçerken bırakıyor),Giresun,GÖRELE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Yusuf Demir,Anadolu cad No:155 Kat:1 Daire:4,İzmir,BAYRAKLI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Çetin NURDOĞAN,Malazgirt Gç. No:4 Kat:1 Daire:2,Kayseri,MELİKGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,BARBAROS ERMAN,Demirtaş Mah.Haşim Peksöz Cad.No:23 KIRKLARELİ,Kırklareli,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Volkan Bayar,"Ali Erdemoglu mah.Ali Erdemoglu Bulvarı No :6A, Besni devlet hastanesi çocuk sağlığı polikliniği, dr volkan bayar",Adıyaman,BESNİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Gökhan Güler,Derbent Mahallesi 1305. Sok No: 2C Palmiye Konutları C blok no 7 Mamak Ankara,Ankara,MAMAK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kartal Erdoğan,Mehmet Akif cd. 32/8 kat:4,Antalya,KEPEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yasin Küçük,Marmara Üniversitesi Mehmet Genç Külliyesi Erkek Yurdu ,İstanbul,KARTAL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,mesut bayrak,Kökcüoğlu mah 12adatürkleri sok no33 kat 9 daire 19,Samsun,İLKADIM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Kübra Genç,"Mimar Sinan mahallesi Sıraselviler sokak no 1 ,kat 4 ,daire 13 Tuzla / İstanbul ",İstanbul,TUZLA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,MUSTAFA KUNDURACI,SANCAK MAHALLESİ VEYSEL KARANİ CADDESİ ATAŞEHİR KONUTLARI 2B/1 B BLOK DAİRE NO:1,Konya,SELÇUKLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Şayeste Pınar Aksu,İnnovia 2 Sitesi A-2 blok daire:120 kat:17,İSTANBUL,ESENYURT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Mahmut Ateş,Efeler mah 1343 sok.  My world efeler sitesi A blok No:16 Kat:2 Daire:3,Aydın,EFELER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,EMRECAN ERDEM,Selçuk Ünv. Ziraat Fakultesi Alaaddin Keykubat Kampüsü No:375 Kat:1 Daire:1,Konya,SELÇUKLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ÜMİT KARTAL,Maraşal Çakmak Mahallesi Ufuk Sokak Anadolu Apartmanı No:6/5,Ankara,SİNCAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ramazan Eroğlu,Şehit Osman Avcı Mahallesi 64 Sokak Ayyıldız Apt No 15/25,Ankara,ETİMESGUT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,tuncay cüvelek,fevzi çakmak mahallesi çayır sokak no:12/16 kat:8 elvin apartmanı asansörde kat: 7,Elazığ,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Barış çırpaç,Bahçeleriçi Mah. Billur Sk. Hasbahçe Apt. No:12 Daire:6 Merkez/Amasya,Amasya,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,oğuz karadeniz,Yalınlı mah. 6008 sok. No:7 Döşemealtı / Antalya,Antalya,DÖŞEMEALTI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Mevlude Koca,genc osman caddesi guzel sokak No:3 Kat:2 Daire:4,Kocaeli,DARICA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Çetin NURDOĞAN,Malazgirt Gç. No:4 Kat:1 Daire:2,Kayseri,MELİKGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Koray Şenel,"Mahsen Mah, Dalgıççı Cad, Park Bahçe Evleri, A BLok, No:1 Kat 3 Daire :5 Merzifon,Amasya",Amasya,MERZİFON,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Cuma Derinkök,1509 sokak no 3 daire 3 DOĞANLAR MAHALLESİ,İzmir,BORNOVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hakan Tamboğa,"Atatürk devlet hastanesi Üçgen, Anafartalar Cd. No:100, 07040 Muratpaşa/Antalya",Antalya,MURATPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,kemal türkmen,Aosb 1. Kısım 2. Cadde no 14 Kristal endüstriyel,Antalya,DÖŞEMEALTI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,mustafa çetin,mimar sinan mah.17.sok.turfan sitesi.B.blok.6.12,Kahramanmaraş,ONİKİŞUBAT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Selim Yıldırım,Gökyazi mahallesi Atatürk gokyazi/4 sokağı Hükümet konagı yanı Demre Kaymakamlıgı personel lojmanı kat 2 daire 5,Antalya,DEMRE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hakan Tamboğa,Sigma Elektrik Yenidoğan yolu cad No:30/A,İstanbul,SANCAKTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Busra Partigoc,Sağlık mahallesi hekim sokak İzzet Baysal devlet hastanesi Köroğlu ünitesi klinik kodlama v,Bolu,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,maksut alkan,234. Sk. No:6 Kat:1 Daire:1,Bursa,OSMANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,tuba mungan,agah ateş mah. turunç sok. no:14 vistalife hereke sitesi daire no:1 ,Kocaeli,KÖRFEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Fatih Menkli,Göl 1. Sk. No:3 Daire:3,Van,EDREMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,oğuz çakır,islambey mahallesi göztepe sokak no 66 d 9,İstanbul,EYÜPSULTAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mihra Karaboga,572. Sk. No:6 Kat:1 Daire:1,İstanbul,SULTANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ercan Baykara,Örnekevler Mahallesi Fatih Gümüş Caddesi Merdivenci Apt. A Blok No:20/1,Afyonkarahisar,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hüseyin Haraç,HATAY / KIRIKHAN İLÇESİ Mimar Sinan Mah. 785.Sk. Ovakent Sitesi C Blok Kat:1 Kapı No:12,Hatay,KIRIKHAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,MEHMET KENAN YAPICI,Boğaziçi mah. 95003. sok. İpeksaray sitesi 8. blok kat: 12 no:25 Onikişubat/ Merkez/ K.Maraş,Kahramanmaraş,ONİKİŞUBAT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,muhammed türk,Yeni mahalle hürriyet caddesi istanbul evleri A1 blok kat 1 no 1 ,Muş,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Emre Aydın,kredi ve yurtlar genel müdürlüğü  No:1 Kat:1 Daire:1,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Fatma nur Öztekin,Odabaşı mah 20/1 sokak apt no 21 Süleyman mutlu apt no 21 kat 6 ,Hatay,ANTAKYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Abdurrahman Kurtuluş,0182 sokak bayram hoşnut apt no 40 kat 3 no 4 Tarsus Mersin,Mersin,TARSUS,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,TOLGAHAN SAYGI,YOZGAT ADALET SARAYI 1.AĞIR CEZA MAHKEMESİ MERKEZ YOZGAT,Yozgat,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Nursevil Yılmaz,Fevzi çakmak mah  770 sok no 20/22 kat 3 d9 kucukkoy  gaziosmanpasa ,İstanbul,GAZİOSMANPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İlker Gök,168 sokak 157 cadde 15/6 tutkunlar apartmanı,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Dilek Karğılı,Talatpaşa Caddesi . No 88 Edirne Gençlik ve Spor İl Müdürlüğü Erasta AVM Karşısındaki.  İl Müdürlüğü girişte Sağda Yurt İdare Birimi  (Aysun Hanım),Edirne,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Duygu Ocak gel,Ardicli mah 792 sok no6 d5 esenyurt istanbul,İstanbul,ESENYURT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,yüksel ayan,velimeşe mahallesi bakkal 1 sokak no:7/2,Tekirdağ,ERGENE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Sümeyye Yolal,İncivez mah. Binbaşı tahsin sk. Yonca apt. No 41. Kat 7 .Daire 115,Zonguldak,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Enes Furkan YOLAL,Mareşal Fevzi Çakmak Mahallesi Şehit Kadir Aydın Caddesi Çamlı Bahçe Sitesi A Blok no 51 kat 6 daire 20,Afyonkarahisar,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ömer Faruk Genç,cumhuriyet mah. vedat dalokay cad. parkefe apt. no:53 kat:3/5,Elazığ,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,duhan bulut,Diriliş mahallesi Destegül sokak Gülseren TOKİ 2. Etap R11B no:36,Ankara,MAMAK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Burak Türkkan,2637 sokak no 12 kat 3 daire 3 ,İzmir,KONAK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Şükran Birgül,"Fırat Mah .10 katlı tokiler
+C1-2Blok Kat 7.No 29 Agri merkez ",Ağrı,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Atike Kali,408. Cd. No:66 Kat:1 Daire:3,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ekrem Gedikli,İstiklal Mah 25 sok. No:9 Han Sitesi A Blok K:6 D:12 Sivas ,Sivas,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ayşe çet,Yenikent mahallesi yakaner sokak no 8,Kocaeli,DERİNCE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ayşe Nur Doğan Ceyhan,Şehir Halil Aktaş Sokak 5/5,İstanbul,PENDİK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Okan Dasdemir,865 sokak no:56 kat:4 Atatürk mahallesi BORNOVA İZMİR,İzmir,BORNOVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ramazan Gürsoy,Demirtaş cumhuriyet mh. çevreyolu cd. no:76 Daire:6 Osmangazi/Bursa,Bursa,OSMANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Salih Şahin,9125/22 sok. no:5 daire 10,İzmir,KARABAĞLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,ismail ALIMCI,6404 sokak no 6 A blok Daire 3 Kınıklı polis lojmanlari ,Denizli,PAMUKKALE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yusuf Kaya,Devlet Mahallesi Merasim Caddesi No.9 Gelir İdaresi Başkanlığı Çankaya Ankara ,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Meryem Eroğlu,1864 cadde  No:15 Kat:0 Daire:F,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ayse Yeter,Odabaşı mah 20/1 sokak apt no19 yagmur apt zemin kat no 4,Hatay,ANTAKYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,hacı kılınç,69. Sokak Kerem Apartmanı 12/7,Hatay,ANTAKYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,İbrahim Akmaz,ANADOLU SAĞLIK MERKEZİ HASTANESİ cumhuriyet mahallesi 2255 sokak NO 3 41400,Kocaeli,GEBZE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,HÜSEYİN SOLMAZ,Akşemsettin mahallesi civan sokak no 6 daire 1,İstanbul,EYÜPSULTAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mukaddes Kaya,Yunus Emre Mahallesi Veysel Karani Caddesi Cafer sokak  No:10 D/3,İstanbul,SANCAKTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Gülay Yurdakul Çetin,ANTALYA KEPEZ DEVLET HASTANESİ ECZANE BÖLÜMÜ No:124 Kat:-1 Daire:1,Antalya,KEPEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,ALİ VAROL,204. Cadde Macun Toki Konutları 2.etap C-15 Blok No:11 Macunköy/Yenimahalle/Ankara,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,OSMAN KAYA,ÖZGECAN Sok No:15 Kat:1 Daire:2 KUZENLER Apartmanı Pendik İstanbul ,İstanbul,PENDİK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,YÜCEL GÖVEZ,hacı isa mah. mehmet girgin sok. no:16 havsa/edirne,Edirne,HAVSA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ULVİ BÜLENT TEKELOĞLU,Kalyon inşaat ilbank yanı barbaros mah begonya sok no 5,İstanbul,ATAŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,zeliha aycan,Evosoft yazılım ltd.şti Osmangazi üniversitesi meşelik kampüsü teknopark binası no:103 evosoft yazılım ltd.şti,Eskişehir,ODUNPAZARI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kadriye Dermani,723. Sokak no :8/10 kuzeyada evleri 3,Balıkesir,EDREMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Anıl Ezgin,İlk Hedef Sok. No:17 D:62 K:9 ,İSTANBUL,ÜMRANİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Muhammet Ali Demirci,Yenişehir mahallesi Ertuğrul gazi bulvari no 40/16 kat.3 DOĞA konutlari,Karaman,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Rabia Kahraman,"Beyazşehir, 836. Sk.  Hira ap. No:4, kat 5,no24 
  Kocasinan/Kayseri, Turkey
-",Kayseri,KOCASİNAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-17-01-2023,Kenan YILMAZ,Şebboy Sk. No:15 Daire:-,Kocaeli,KARTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-18-01-2023,Gözde Karatopcu,Doğuyaka mah.Termessos Bulvarı Özpınarlar Gardenya park 2 sitesi A blok K:3 D:5 ,Antalya,MURATPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-17-01-2023,Eda Aksoy,Mevlana Cd. No:82 Kat:3 Daire:11,İstanbul,ZEYTİNBURNU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-16-01-2023,Fatma Bülbül,7117 sk irem sitesi onur apartmani C7 blok Kat:3 Daire:8,İzmir,MENEMEN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,3,133.95,6.73,127.22
-17-01-2023,tuğba akbey,Yeni batı mah 2354 Cadde Esnaf Sanatkarlar 3 sitesi 13/3 Yenimahalle Ankara,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-16-01-2023,Meryem Kurt,Acar Sk. No: deka novem sitesi a blok no 5/1 Kat:1 Daire:2,İstanbul,PENDİK,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
-14-01-2023,Mürşide Şekerci,Yaylacık mahallesi Akçaabat Caddesi Kuşburnu sokak Tuğra Apt Numara:4 Kat:5 Daire :15,Trabzon,AKÇAABAT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-14-01-2023,Neval Candan,Merkez Kuledibi Mahallesi Turgay Ciner caddesi hükümet konağı kat 7 trafik denetleme büro amirliği ,Artvin,HOPA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-16-01-2023,inci ipor,diş hekimi muayenehanesi osman dirik caddesi no 62 ptt üstü subaşı torbalı,İzmir,TORBALI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Ramazan Erol,Fatih Mah. 116289. Sok (eski183.sok) Fatih Apt. No: 22/2,Konya,ILGIN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Ramazan Erol,Fatih Mah. 116289. Sok (eski183.sok) Fatih Apt. No: 22/2,Konya,ILGIN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-13-01-2023,Merve Çomak,Şehri Nuh Otel no:70 Şırnak/Merkez,Şırnak,MERKEZ,Salihli Kadın Girişimi Kuru Basım Yaprak 400 gr,400 gr,54.0,1,54.0,2.71,51.29
-17-01-2023,Ayten Gönenç,Koşuyolu cad. Emlakbank sitesi A blok D:41 telefon. 05425666592,İstanbul,KADIKÖY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,4,178.6,8.97,169.63
-16-01-2023,Atakan Yılmaz,"205 Taksim 3 no 11 daire 3 KURUÇEŞME BUCA İZMİR
-",İzmir,BUCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,4,178.6,8.97,169.63
-13-01-2023,Havva Gedik,Toklu mh cennet sk. Vadi Apt A Blok Kat 5nm10,Trabzon,ORTAHİSAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Gülcan Altundağ,Barbaros mahallesi sümerli sokak çelik apartmanı 4/3 kocasinan kayseri,Kayseri,KOCASİNAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-16-01-2023,Sümeyye Seven,Gümüşhane Sk. Fatih İnşaat No:28 Kat:2 Daire:2,Kocaeli,DERİNCE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,3,133.95,6.73,127.22
-15-01-2023,ayse tosuncan,çaycuma devlet hastanesi eczanesi,Zonguldak,ÇAYCUMA,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
-13-01-2023,VEYSİ OKTAYKAAN,Akkent 5.cad.Bilimkent sit.F/BLK.Huzur Apt.10/38      Yenişehir/MERSİN,Mersin,YENİŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Aygul Aslan,Sinem Sk. No:40 Kat:1 Daire:1,İstanbul,MALTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-14-01-2023,ÜLKÜ GÜLTEKİN ÖZER,onur mah.sümbül sok. no:3 kat:3 balçova izmir,İzmir,BALÇOVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-15-01-2023,Talha Arıkan,Cihangir Mah. Ormanlı Cad. No:45 Daire:9 Avcılar İstanbul,İstanbul,AVCILAR,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
-15-01-2023,EMRE GÖKALP,ADNAN KAHVECİ MH.ERATA CD.KARAN SK. NO:6/55 BEYLIKDUZU-ISTANBUL,İstanbul,BEYLİKDÜZÜ,Salihli Kadın Girişimi Ev Makarnası 1 kg,,63.0,2,126.0,6.32,119.68
-14-01-2023,irfan diker,Plevne mah.bilir sok.16/13 sincan/ankara,ANKARA,SİNCAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-09-01-2023,Abdullah Topçu,(Adrese teslim şartı ile) Göynüklü mah. Sectepe Cad 11 Villa Belvedere,Bursa,MUDANYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-15-01-2023,Mehtap Ukşal,Yenibağlar mahallesi taşdemir sokak maviden city platinium 24A kat2 daire 3,Bursa,OSMANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Nurgül Boran,Güngören Bilim ve Sanat Merkezi Haldun Taner Sokak No 25 34173 Güngören  İstanbul ,İstanbul,GÜNGÖREN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Zübeyde Eröcal,Tiirnova Mah. Debboy sok  kırçiçeği sitesi akasya apt. 14C Daire:7,Balıkesir,GÖNEN,Salihli Kadın Kooperatifi Salamura Yaprak,1 Adet,130.0,1,130.0,6.53,123.47
-14-01-2023,Hüseyin Akdaş,Kavaklı mah. 6522 sok. No.10,Antalya,MANAVGAT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-16-01-2023,Hüseyin ÇAMALAN,2265 sokak Goldsan 2 Sitesi A Blok kat 1 daire 6,Aydın,DİDİM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-14-01-2023,Eren Babataş,1601 Cd. Bilkent Üniversitesi Orta Kampüs Lojmanları 101/21,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Hakan Atalay,Koru Mah.Sarmaşık Sok. Sardunya Sitesi C Blok Daire 27 ,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Gülay Horasan Eker,186. Sk. No:4 Kat:2 Daire:3,İzmir,GAZİEMİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Abdullah BİÇER,Emek mahallesi Sanayi caddesi no 171/5,Muğla,MİLAS,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Seçil Karaalioğlu,esenlik mh ant cad n:63/1 Yeşilyurt ptt (ptt çalışanı),İzmir,KARABAĞLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-13-01-2023,Tural Bayramov,8229/1. Sk. No:56 (Özel Kent Hastanesi - zemin kat - Poliklinikler - Banko 1),İzmir,ÇİĞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-15-01-2023,Eda Aksoy,Mevlana Cd. No:82 Kat:3 Daire:11,İstanbul,ZEYTİNBURNU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-12-01-2023,Makbule Özen,Orhangazi mah. No:9 Daire:2,Kocaeli,GEBZE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-12-01-2023,Hilal Yıldızküçük,Çay mah. Topbaşı mevki 67900 çaycuma devlet hastahanesi eski acil girişi eczane birimi Çaycuma/Zonguldak,Zonguldak,ÇAYCUMA,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,3,390.0,19.58,370.42
-12-01-2023,halil ozdemir,köroğlu cad no 30,Bolu,DÖRTDİVAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-12-01-2023,Nalan TÜRKOĞLU,Karşıyaka mahallesi milli mücadele sokak no.29 kat.4 canik Samsun ,Samsun,CANİK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-12-01-2023,Tuba Yaşkeçeli,354 sokak no 57/1 Manisa şehzadeler A101 karşısı ,Manisa,ŞEHZADELER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-12-01-2023,Figen KARAKAŞ GELİR,Davraz Mh 3972. Sk no14-16 D blok kat 3 daire 6 Aqua park rezidans Isparta ,Isparta,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-10-01-2023,Cemal Paril,Fatih MH.Sanayi Cd. No:19 Oğuzeli/Gaziantep,Gaziantep,OĞUZELİ,Salihli Kadın Kooperatifi Tarhana 1 kg,1 kg,119.6,1,119.6,5.99,113.61
-12-01-2023,DUYGU CEDE,Funda Sk No:4 Historia sitesi A blok Kat:4 Daire:9,Bursa,NİLÜFER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-12-01-2023,Taner GÜLER,3642 sokak No 4/1 Bahçeşehir Platinium 1. Etap sitesi C blok K 2 D 7 ,İzmir,TORBALI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-13-01-2023,Emine Yiğit,Karacaoğlan Sk. Agaoglu My World Europe Sit. No:B3 Kat:14 Daire:D:143,İstanbul,BAŞAKŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,3,133.95,6.73,127.22
-12-01-2023,mehmet erdaş,mutlu mh. 3600 SK. no:7/7 yunusemre,Manisa,YUNUSEMRE,Salihli Kadın Girişimi Kayısı Marmelatı,400 gr,25.52,1,25.52,1.27,24.25
-11-01-2023,Raziye Özdemir,Klavuz mahallesi tekke caddesi Beyazşehir sitesi a blok kat 1 no 4,Sivas,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-11-01-2023,Hülya Selçuk,4517 sk no 28  zemin kat,İzmir,KARABAĞLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-10-01-2023,abdullah karadoğu,Bahçeşehir sitesi a blok kat 4 no 11.,Van,EDREMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-11-01-2023,ferdi sönmez,29 EKİM MAH.503 SOK TARABYA SİTESİ NO:18 D/BLOK K:5 D:19 ,Bursa,NİLÜFER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-11-01-2023,Berkay Türkmen,Altay Sk. Yakamoz Sitesi B Blok Kat 1 Daire 3,İstanbul,ATAŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-09-01-2023,İsmail Yıldırım,DÜZKÖY köyü camii lojmanı ,Rize,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,3,150.0,7.54,142.46
-10-01-2023,Cemal Paril,Fatih MH.Sanayi Cd. No:19 Oğuzeli/Gaziantep,Gaziantep,OĞUZELİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-10-01-2023,Makbule Ordu,Boğaziçi Üniversitesi Kuzey Kampüs 4.Kuzey yurdu -1.kat Arşiv şube müdürlüğü ,İstanbul,SARIYER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-11-01-2023,Bülent Gök,Kartal Kentplus Pamukkale sokak no15 No:B2 Kat:1 Daire:7,İstanbul,KARTAL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-11-01-2023,sunay aslantaş,1220. Sk. No:31 Kat:1 Daire:1,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Kuru Basım Yaprak 400 gr,400 gr,54.0,1,54.0,2.71,51.29
-11-01-2023,Mehmet Ali Kocamer,Prof. Dr. Ahmet Taner Kışlalı Mahallesi 2918. Sok. Vakıflar Nergis Sitesi. 9.Blok Daire:1,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-10-01-2023,Sinan fırtına,Kayapaşa mah Ünye CAD obak sitesi 1 blok no 224 iç kapı no 2 Niksar Tokat,Tokat,NİKSAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-11-01-2023,İLHAN Özdemir,Peksan makina kalıp plastik Yazıbaşı mahallesi 303 sokak no-9 ,İzmir,TORBALI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-12-01-2023,pınar başaran,Meriç sk no:10 kat:5 daire:14 ,İstanbul,GAZİOSMANPAŞA,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
-11-01-2023,Kübra YILMAZ ŞİMŞEK,AYANOĞLU MAH. KIRŞEHİR CAD. ŞEHİT ZİYA BENER SOK. ENES APT. A BLOK NO: 4,Yozgat,YERKÖY,Organik Siyah Zeytin Güneşte Kurutma,700 gr,75.0,1,75.0,3.76,71.24
-11-01-2023,Şule Erkan,Ertuğrulgazi caddesi no38/a yeşiltepe market ,Sakarya,ERENLER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-09-01-2023,Yusuf Kuytu,Atakent Mahallesi 6165.sokak Necmettin Özdemir Sitesi A blok No:13,Şanlıurfa,KARAKÖPRÜ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-10-01-2023,Murat Dervişoğlu,Seramik Sokak No. 5/1,İstanbul,BEŞİKTAŞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-10-01-2023,salih okur,Arıkbaşı mah. 636. sok. No: 23/1 48600 ORTACA / MUĞLA,Muğla,ORTACA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-10-01-2023,kadir Karademir,"Ferah Mahallesi, Ergenç Sokak, Dışkapı No:3, İç kapı no : 1 BEYTU KURUTEMİZLE Üstü",Balıkesir,DURSUNBEY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,5,223.25,11.21,212.04
-10-01-2023,yalçın ademoğlu,EMOT Hastanesi 1418 sok. No:14 Kahramanlar 35230,İzmir,KONAK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,3,133.95,6.73,127.22
-10-01-2023,Şevval Alkır,Abdullahpaşa mahallesi 266. Sokak 12. Blok kat 5 no 24 ,Elazığ,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-10-01-2023,canan taşkıran,1070.sokak-no:93/17,Ankara,ALTINDAĞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,5,223.25,11.21,212.04
-06-01-2023,Elif Şeftali,Yeni mh Otluca tugay yol üstü keskin market karşısı no75     HAKKARİ MERKEZ ,Hakkari,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,3,150.0,7.54,142.46
-09-01-2023,fazlı derin,Gürağaç cevizli mahallesi Tunçbilek tavşanlı kütahya ,Kütahya,TAVŞANLI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-09-01-2023,Ömer Topaç,"2837 sokak önder sitesi  no 25b kat,3/15(en mesken 2 kuzeyii) ",Aksaray,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-09-01-2023,İhsan Sayar,"GÖKKUŞAĞI MATBAACILIK AMBALAJ IMALAT SAN.ITH.IHR.DAHİLİ TIC.LTD.ŞTİ.
-İkitelli OSB Mh. İpkas sanayi sitesi 2723.sk. 2.Ada No : 27-39 İkitelli - Başakşehir / İSTANBUL",İstanbul,BAŞAKŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-09-01-2023,Arda Dülgar,Yıldızevler mahallesi 718.sokak 13/5 Çankaya Ankara,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-09-01-2023,Ayten Gönenç,Koşuyolu cad. Emlakbank sitesi A blok D:41 telefon. 05425666592,İstanbul,KADIKÖY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,2,100.0,5.03,94.97
-07-01-2023,Basri Lİman,IHLAMUR BULVARI UPHİLL COURT B ADA B5 BLOK  No.11/C  Daire 66,İstanbul,ATAŞEHİR,Salihli Kadın Girişimi Ev Makarnası 1 kg,,70.0,1,70.0,3.52,66.48
-07-01-2023,Basri Lİman,IHLAMUR BULVARI UPHİLL COURT B ADA B5 BLOK  No.11/C  Daire 66,İstanbul,ATAŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-07-01-2023,Basri Lİman,IHLAMUR BULVARI UPHİLL COURT B ADA B5 BLOK  No.11/C  Daire 66,İstanbul,ATAŞEHİR,Salihli Kadın Girişimi Kayısı Marmelatı,400 gr,25.52,1,25.52,1.27,24.25
-10-01-2023,Gülşen Karakaya,Tamer sokak no 39 d 4 Bayrampaşa İstanbul,İstanbul,BAYRAMPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-09-01-2023,Gökhan Yoğurtcu,Şenkal Sk. No:6 Kat:3 Daire:13,Ankara,PURSAKLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,1,44.65,2.24,42.41
-09-01-2023,ORHAN KORAL,ÜNİVERSİTELER MAHALLESİ BAHÇE KONUTLARI NO 72 BİLKENT,Ankara,ÇANKAYA,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
-09-01-2023,Ebrar Betül Torun,Çay Mah. Topbaşı Mevki Zonguldak Çaycuma devlet hastanesi eczane birimi,Zonguldak,ÇAYCUMA,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
-09-01-2023,İbrahim Sökmen,846 SOKAK NO:27 K:4 ATIFHOCA İŞHANI BİRİNCİ BEYLER,İzmir,KONAK,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
-09-01-2023,Mustafa Güleryüz,"Merkez,mah.Kayalar Sk. No:18 d.9",İstanbul,KAĞITHANE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,44.65,2,89.3,4.48,84.82
-06-01-2023,MEHMET FATİH AYBEY,ÇUKUROVA KAYMAKAMLIĞI İLÇE MİLLİ EĞİTİM MÜDÜRLÜĞÜ ÖĞRETMEN ATAMA BÜROSU KAT:3 NO:15,Adana,ÇUKUROVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-08-01-2023,Erkan Sakarya,Faikbey Mescidi Sokak Köse Kardeşler Sitesi No 25/4 D Blok Daire 5,İstanbul,ÜSKÜDAR,Salihli Kadın Girişimi Kuru Basım Yaprak 400 gr,400 gr,60.0,1,60.0,3.01,56.99
-08-01-2023,Erkan Sakarya,Faikbey Mescidi Sokak Köse Kardeşler Sitesi No 25/4 D Blok Daire 5,İstanbul,ÜSKÜDAR,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
-08-01-2023,Erkan Sakarya,Faikbey Mescidi Sokak Köse Kardeşler Sitesi No 25/4 D Blok Daire 5,İstanbul,ÜSKÜDAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-08-01-2023,Erkan Sakarya,Faikbey Mescidi Sokak Köse Kardeşler Sitesi No 25/4 D Blok Daire 5,İstanbul,ÜSKÜDAR,Salihli Kadın Girişimi Kooperatifi Toz Kimyon 100 gr,100 gr,20.0,1,20.0,1.0,19.0
-08-01-2023,Yıldız Altundağ,anafartalar caddesi No:A1 Kat:6 Daire:27,İstanbul,BAŞAKŞEHİR,Salihli Kadın Kooperatifi Salamura Yaprak,1 Adet,130.0,1,130.0,6.53,123.47
-06-01-2023,irfan diker,Plevne mah.bilir sok.16/13 sincan/ankara,ANKARA,SİNCAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-08-01-2023,irfan diker,Plevne mah.bilir sok.16/13 sincan/ankara,ANKARA,SİNCAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-06-01-2023,Emine Dilek Öztoprak,Darüşşafaka mahallesi Açelya sokak Mavi Haliç sitesi B1 blok D9,İstanbul,SARIYER,Organik Siyah Zeytin Güneşte Kurutma,700 gr,75.0,2,150.0,7.53,142.47
-07-01-2023,Bayram YAHŞİ,fatih mahallesi 1124 sokak no3/D güven ctiy D blk k:3 D:11,Aydın,EFELER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-08-01-2023,gökhan ağır,"İpekyolu caddesi No:154 NATURAL GARDEN KIRKPINAR sitesi, resepsiyona birak",Sakarya,SAPANCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-06-01-2023,Mehmet Aktaş,Halkalı merkez mahallesi hakim sokak no 5 daire1 Küçükçekmece istanbul ,İstanbul,KÜÇÜKÇEKMECE,Salihli Kadın Kooperatifi Salamura Yaprak,1 Adet,130.0,1,130.0,6.53,123.47
-08-01-2023,Mete Salduz,8050 Sokak No: 115/5 Güvenler Sitesi Gökdemir Apartmanı ,İzmir,ÇİĞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,3,150.0,7.54,142.46
-07-01-2023,Ramazan Gedik,"Emniyettepe, Yelkenci Sk. No:10 Daire:13",İstanbul,EYÜPSULTAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,2,100.0,5.03,94.97
-09-01-2023,Hasan Erhan Kıroğlu,İhsaniye mahallesi Fatih caddesi no.9/5 uğur APT   Bandırma ,Balıkesir,BANDIRMA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,2,100.0,5.03,94.97
-07-01-2023,irfan sakin,İstanbul cad. Çınarlı cami sok. No:3/1,Yalova,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,2,100.0,5.03,94.97
-08-01-2023,Muhittin Birim,Huzur Mah. Fatih Cad. No:83/A,İstanbul,SARIYER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-08-01-2023,Merih Ülkü Berghan,Cengiz Topel mah.No.39/10 Inci apt.Kat.4 ,Muğla,DALAMAN,Salihli Kadın Girişimi Kayısı Marmelatı,400 gr,25.52,1,25.52,1.27,24.25
-05-01-2023,Dursun Kumaş,Kepez mah. Seh.jan.komando.çvş.Noyan Aydın sokak no 169 daire3,Zonguldak,EREĞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-05-01-2023,Servet Borucu,Akmeşe Sk.cd 18 No:D Kat:4 Daire:401,Zonguldak,ALAPLI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-05-01-2023,Şevval Alkır,Abdullahpaşa mahallesi 266. Sokak 12. Blok kat 5 no 24 ,Elazığ,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-05-01-2023,Mehmet Reşat Çelik,Salkımbağı Köyü No: 130,Adıyaman,KAHTA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-05-01-2023,büşra gizem çakır,virajlı sk. No:1 Kat:0 Daire:1,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-05-01-2023,Emre Aydoğdu,Silinmez Sk. No:4A Kat:9 Daire:33,Ankara,SİNCAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,2,100.0,5.03,94.97
-05-01-2023,Mehmet fatih Sayma,1019.sokak Çırağan Sitesi C blok Kat:5 Daire:11,Şanlıurfa,KARAKÖPRÜ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,4,200.0,10.05,189.95
-04-01-2023,Seyithan Bedirhanoğlu,Mehmet Nurdağı Cd Liva sitesi A Blok Kat:5 Daire:15,Mardin,ARTUKLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-05-01-2023,Serdar Soğukpınar,"TOKİ Yapracık Konutları,Evliya Çelebi Cad.12.Bölge C-55 Daire:6 Atayurt Mah-Etimesgut/ANKARA",Ankara,ETİMESGUT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,2,100.0,5.03,94.97
-05-01-2023,Aslıhan Çoban Balcı,Aşağı Kayabaşı Mah. Zemerdin Sok. No:40/2 Seçkintürk Sitesi B Blok 6. Kat No:23,Niğde,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-05-01-2023,recep kıymaz,3002. Sk. No:1 Kat:6 Daire: 13,Samsun,ATAKUM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-04-01-2023,Bülent Yaldız,Şht. Rahmi Bey Cd. No:47 Kat:3 Daire:8,Balıkesir,GÖNEN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-03-01-2023,Mehmet fatih Sayma,Akbayır mahallesi 1066 sokak yakamoz sitesi,Şanlıurfa,KARAKÖPRÜ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,4,200.0,10.05,189.95
-03-01-2023,Rengin Babataş,4. Sokak Obakent sitesi B blok kat:2 d:6,Antalya,ALANYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,2,100.0,5.03,94.97
-04-01-2023,Levent yılmaz,694/39 SK.NO:7 KAT:2,İzmir,BUCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,3,150.0,7.54,142.46
-04-01-2023,Gülhanım Türk,Köseköy mah. Orhangazi cad. No:43 Köseköy Kartepe Kocaeli,Kocaeli,KARTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-03-01-2023,Arda Dülgar,İşçi Blokları Mh. 1501.sokak Sevde Apartmanı 6/15 Çankaya Ankara ,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-02-01-2023,Murat Bahadır Kutun,Emniyet Mah. Hipodrom Cad. No:5 yenimahalle- ankara,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-02-01-2023,yasemin çakmakcı,"Fatih mahallesi, Fetih Sokak, apartman no:30, daire no:1, kat:1",İstanbul,SANCAKTEPE,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
-02-01-2023,Merve Hira,179. Sok. No: 29 d: 2,Balıkesir,KARESİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,2,100.0,5.03,94.97
-02-01-2023,ORHAN KORAL,ÜNİVERSİTELER MAHALLESİ BAHÇE KONUTLARI NO 72 BİLKENT,Ankara,ÇANKAYA,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
-03-01-2023,Fethiye Sağanak,Erenköy mah istasyon cad erkoç apt a blok no13 da11 kat 8,İstanbul,KADIKÖY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,1,50.0,2.51,47.49
-02-01-2023,evren aktaş,Alacaatlı Mah. 3313.cad no 45.,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,2,100.0,5.03,94.97
-02-01-2023,Ali Selçuk YILDIZ,Seğmenler Mah. 3255. Cadde. No:6 Meva Manzara Evleri B Blok D:15 Gölbaşı/ANKARA,Ankara,GÖLBAŞI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,50.0,2,100.0,5.03,94.97
+",Kayseri,KOCASİNAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,YASEMİN GÜNEŞ,BORAZANLAR MAH. TUĞBA SOK. BEYAZ İNCİ KONUTLARI C-BLOK NO:3,Bolu,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Mehmet Emin Aslan,"isabey mah.çınaraltı sok.no 3 daire 2
+leylek pınarı parkı yanı",Bursa,YILDIRIM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Nurullah Ertuğrul,BAHÇEŞEHİR MAHALLESİ 86104 SOKAK NO:7/2 SEYHAN/ADANA (VİZYON JİMNASTİK ÜZERİ),Adana,SEYHAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mehmet Emin Aslan,Ulukent 29 Ekim Mah.1.Cadde Çakır Apt. Bina No 10 Kat 2 Daire No : 8 Ulukent/Menemen Ulukent Aktarma Merkezi karşısı Mert ka İnşaat,İzmir,MENEMEN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ayşe Mutlu,"Zafer mh.adnan menderes üniversitesi hastanesi psikiyatri binası f blok,zemin kat",Aydın,EFELER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,YAKUP BEY,yenimahalle şahin sokak şahin ap 7/4 cumayeri düzce,Düzce,CUMAYERİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Feridun Özçelik,"YALI MAHALLESİ , 180 SOKAK , NO : 11 DAİRE : 3 ( Plajlara Giderken, Bp yi geçtikten sonra ilk ışıklardan sağa girin, hemen soldaki Şehit Bülent Yanpala İlkokulu Önündeki Gri/Mavi Bina) ",İzmir,ALİAĞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Muhammet mert Oğuz,Gazi Paşa Cad. Batı Yakası sitesi No:53 Dblok Kat:12 daire:45 Mezitli/MERSİN,Mersin,MEZİTLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Şevket Şahin,2330. Sokak Gül Apt. No:48/8,Ankara,ETİMESGUT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Muhammet mert Oğuz,Bahçeli Evler Mah. Mehmet Karamanoğlu Caddesi Çelik İnşaat No:12/8 80500 Bahçe / Osmaniye,Osmaniye,BAHÇE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ZAFER BİLGİLİ,ŞEHİT ORHAN GÖK MAHALLESİ 943 SOKAK TOKİ EVLERİ DG-2A BLOK KAT:1 NO:4 OSMANİYE/KADİRLİ,Osmaniye,KADİRLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Nagehan Özkoç,"Petrol Ofisi Menemen - 1169 , Mermerli Mah, İnkılap Cd. No:68, 35660 Menemen/İzmir",İZMİR,MENEMEN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Nubar Kutluay,Akpınar mahlesi 324 sokak öz soylu apartmanı no54 dire B1,Diyarbakır,BİSMİL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ercan özbay,605/7 sok. No:12 Renktas mimarlik,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ayşe Aytekin,"Ali Çalım 2.sok Akka Vadi Evleri kat 6 daire no 41 
+  ipekyolu van ",Van,İPEKYOLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Emine Uçan,2436 Cad. SC2-15 d:17 No:sc2-15 Kat:3 Daire:17,Ankara,SİNCAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Uğur Karakurt,ünalan mah. Soyak Camii Sk. No:10 Üsküdar-İstanbul USHAŞ GENEL MÜDÜRLÜK,İstanbul,ÜSKÜDAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Fuat Özdamar,Şeyhcui Mah. Üzüm Sok.  Doğan Apt.  No:6/3 Amasya Merkez ,Amasya,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Yurdanur Tınaz,Defneli Cd. No:2 Kat:6 Daire:11,İstanbul,KARTAL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Sümeyye Kayar,Fatih mahallesi 732.sokak no 32 kat1 daire 8,Afyonkarahisar,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ali Alakuş,Topcular mah 114 . Sokak alakus ap kat 2 daire 2 ,Iğdır,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ali Alakuş,1210. Sk. No:6 Kat:-1 Daire:1,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ebru ayna,97. Sk. No:G Kat:1 Daire:3,Ankara,ETİMESGUT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Muhammed Oğulcan Akbaş,Konutbirlik evleri 1.kısım 12.blok d:32 kat:7,İstanbul,KÜÇÜKÇEKMECE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ZAFER BİLGİLİ,HACI MUSTAFA KESTİR CADDESİ AHMET KARALI APARTMANI NO:19/1,Osmaniye,KADİRLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Sinem Çiftci Ertuğrul, Yenişehir mah 134 sokak duş kapı no:31k5 daire no:2,Şırnak,SİLOPİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Levent Günnar,Orta mahalle papatya sokak güvenceler sitesi c blok kat 8 daire 16 yıldızlı akçaabat Trabzon ,Trabzon,AKÇAABAT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,ALİ KARAKURT,Atatürk Mah. 1088 Sok.No:10/7 SELÇUK / İZMİR,İzmir,SELÇUK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ali Alan,lale sok. no:1/101 isbaş idari bina - muhasebe,İstanbul,ÇATALCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hasan Beytüt,Yakacık yeni mahalle gülbağ sokak no 5-7 adalife sitesi C blok kat 12 daire 26,İstanbul,KARTAL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yeşim Kisbet Uslurak,Saraçlı mahallesi Akkuş Niksar caddesi 8. Geçit no:28 kat:4 daire:17,Ordu,ÜNYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ENVER ÇAĞRI ÇAŞKA,1340. Sk. No:10 Kat:3 Daire:11,Ankara,ALTINDAĞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,ahmet ıravul,BARIŞ SK NO 13 TERZİ SELİM ÖNOL -ÇAMLIBEL - AKÇAY- EDREMİT- BALIKESİR,Balıkesir,EDREMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Muslum Sahin,MÜSOS MARKET CUMHURİYET MEYDANI NO 1,Şanlıurfa,HALFETİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Zeynep Gündüz,5.cadde  No:28/5 Kat:5 Daire:12,İzmir,MENEMEN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Selçuk Kılıç,Sarigazi mahallesi atesler sokak selvi sitesi bina no : 12 daire no : 12 a/blok kat : 3 ,İstanbul,SANCAKTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,Ayşe Önce,Uzunoluk mahallesi 1451 sokak no 13 /1,Antalya,KORKUTELİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,aykut Özoğul,Güre mahallesi Kızılkeçili 2 sokak no 10 edremit Balıkesir/ Güre köy meydanından mezarlık istikametine in Kızılkeçili yolundan devam et Ali Ünal grup evlerini geçince çeşmeden sağa dön sağdaki ev.,Balıkesir,EDREMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,kadir şahin,Orhangazi mah. Gökkuşağı düğün salonu arkası Boğaziçi konutları A blok Kat. 2 Daire 10,Kahramanmaraş,ELBİSTAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Semra Timur,Atatürk mahallesi Ataşehir bulvarı 11R mimoza 2/17 D.9 K.2 34758 Ataşehir-İstanbul ,İstanbul,ATAŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Oğuz Han,4213 sokak Santaş Selective sitesi b blok kat 2 daire 3,Sakarya,SERDİVAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,hakan danışan,DUMLUPINAR MH.ÖZNUR SK.NO:26 MAVİ İKİZ SİTESİ B-BLOK DAİRE:6 KAT:2,Kocaeli,DERİNCE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Yavuz Fırat,Ahmet Yesevi mah şehit ferhat şarlak cad cicekkent koop B Blok 68B daire 8 KARAMAN merkez ,Karaman,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yavuz Fırat,Ahmet Yesevi mah şehit ferhat şarlak cad cicekkent koop B Blok 68B daire 8 KARAMAN merkez ,Karaman,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Serdal Öztürk,Park sokak Ayışığı sitesi A blok no:9/4,Ankara,ŞEREFLİKOÇHİSAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mehmet Şadi Özmen,denizli huzurevi ve yaşlı bakım rehabilitasyon merkezi müdürlüğü,Denizli,MERKEZEFENDİ,Salihli Kadın Girişimi Kayısı Marmelatı,400 gr,25.52,1,25.52,1.27,24.25
+29-01-2023,Mehmet Şadi Özmen,denizli huzurevi ve yaşlı bakım rehabilitasyon merkezi müdürlüğü,Denizli,MERKEZEFENDİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Nevruz İpek,Şirintepe mahallesi kuş sokak n:3 d:2 Fadime uçkaç apt Tepebaşı Eskişehir ,Eskişehir,TEPEBAŞI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,EMRAH ÇANKAYA,Batıkent mahallesi 5756 sokak güneş sitesi I blok no:7 kat2 D 4 Isparta,Isparta,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,hatice Baysal,5711/6 sokak no:5 kat:3 Çamdibi Meriç mahallesi kokluca mezarlık arkası,İZMİR,BORNOVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Osman Eröz,"Yıldız nahallesi  TURGUREİS. CADDESİ 
+DAYIBAŞI. AP : 75/ A. Piletsan piliç",Antalya,MURATPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Murat Sarıgöl,Kuruköprü mah Vergi denetim kurulu Adana denetim daire bşk kat:8 no:807 Seyhan / Adana,Adana,SEYHAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mine Tekayak,350.sokak No:56 Kat:3 Daire:3,Hatay,ARSUZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mine Tekayak,350.sokak No:56 Kat:3 Daire:3,Hatay,ARSUZ,Salihli Kadın Girişimi Kooperatifi Toz Kimyon 100 gr,100 gr,18.0,1,18.0,0.91,17.09
+29-01-2023,Erol Kavak,Çaydamar mah. İlham sok. No:12,Zonguldak,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mehmet Akgün,Fatih Mahallesi Melis Sokak No:11/3,İstanbul,BÜYÜKÇEKMECE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Saime Büşra Buruk,tomurcuk sokak No:2 Kat:2 Daire:2,İstanbul,BEYKOZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yeşim Güler,Üçevler mah Kevser sk no 8 kat 1 daire 2. Nilufer Bursa ,Bursa,NİLÜFER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Zehra Özlem OĞUZ,5350. Sok. OYAK Göksupark Konutları C Blok Kapı No: 8 Göksu/Etimesgut/Ankara,Ankara,ETİMESGUT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,kemal onurlu,KIZILCALAR MH.MİMAR SİNAN CAD.KAPLAN APT.12/11 SEYDİŞEHİR,Konya,SEYDİŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,ramazan asoglu,Çankaya mahallesi 2011.sokak kumru 2 sitesi b blok no 3,Şanlıurfa,KARAKÖPRÜ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Cihan Çakır,624. Sk. No:18 Kat:2 Daire:3,Mardin,KIZILTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,bora kara,Sedir sokak aşiyan konakları b blok daire 3 büyükçekmece,İstanbul,BÜYÜKÇEKMECE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,Gökay Kaya,Bahçelievler mahallesi adalet CAD no17/1 daire 12 6 kat  b blok park live evleri,İzmir,TORBALI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,rukiye özel,64-2 sokak No:16 Kat:3 Daire:4,İstanbul,ZEYTİNBURNU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,süleyman fırıncıoğulları,general şükrü kanadlı mah. çifte kastal1 cad.no:5 samandağ/hatay,Hatay,SAMANDAĞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Berk Karagöz,"GORRION HOTEL ISTANBUL Yenibosna Merkez, Sanayi Caddesi No:9 34197",İstanbul,BAHÇELİEVLER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Fikri KARAKAYA,Konya Adliyesi 1. Çocuk Mahkemesi,Konya,KARATAY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ÖMER ERDOĞAN,8014.sokak yildirim evler(faydali evler) sitesi e blok no7,Sakarya,ERENLER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İsmet Erküçük,ANT CAT NO74 DA15 KAT 5 YEŞİLYURT KARABAĞLAR ,İzmir,KARABAĞLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,Gülçin Yankac,5127. Sk. No:32A Kat:3 Daire:3,Kocaeli,ÇAYIROVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hasan Basri Kalender,8229/1 sokak no 21b ece sitesi barış apartmanı kat 2 daire 6 çiğli İZMİR ,İZMİR,ÇİĞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,Ramazan Yaka,293/18. Sk. No:12 Kat:2 Daire:2,İzmir,BUCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Semih Çetin,Yeni mah. Radar cad. No:120 daire 5,Kocaeli,İZMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Muammer Akkaya,Papatya Cd No:48 Tuğra Apt K: 1  D: 7  TALAS- Kayseri ,Kayseri,TALAS,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Cemil Alat,SUBAŞI MH. EYRİGAZİ CADDESİ 3. TOKİ KONUTLARI C1.1 BLOK DAİRE NO:1  43400 TAVŞANLI KÜTAHYA,Kütahya,TAVŞANLI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Sümeyra Bayram,1479. Sk. No:22 Kat:3 Daire:3,İstanbul,ESENYURT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mustafa Sen,"Teyyaredüzü Mahallesi, Alınca 1 Sokak, Safir Sitesi (Hamza Tütüncü Konutları), D Blok, Kat:5 ,No:12, MERKEZ/GİRESUN",Giresun,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kemal kumru,Kale Cd. No:61 Kat:2 Daire:4,İstanbul,SULTANBEYLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,gonca ışık,YediEylül Mahallesi arpacıoğlu sokak no/44 Metin apt.kat.4,Aydın,GERMENCİK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ABDULLAH ALPAYDIN,"ÇAMLIK MAHALLESİ
+LEYLAK SOKAK
+AÇELYA SİTESİ
+D2 BLOK DAİRE: 16",İstanbul,PENDİK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ferda derindere,Köşklü Çeşme Mah. 537/2 Sok. No:5 Kendir Apt. D:12 Gebze/Kocaeli,Kocaeli,GEBZE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Gönül Para,Doğancı Mahallesi istiklal Caddesi bina 30 kat 1 mersin mut ,Mersin,MUT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Öznur Bulut,Ziya Gökalp Cad. No 24 Daire 3,Kocaeli,İZMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,yılmaz gündüz,ISPARTA ŞEHİR HASTANESİ PATOLOJİ LAB. ODA NO:DZL 026,Isparta,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kenan İMER,Mevlana mahl.742.sokak no: 16/22 Kat 3,Samsun,ATAKUM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kenan İMER,Mevlana mahl.742.sokak no: 16/22 Kat 3,Samsun,ATAKUM,Salihli Kadın Girişimi Organik Gemlik Yağlı Salamura Siyah Zeytin,700 gr,70.0,1,70.0,3.52,66.48
+29-01-2023,Emine Doğan,Mehmet Akif Mahallesi 18 Mart Caddesi Volkan Sokak No 15 Daire 10 ,İstanbul,ÇEKMEKÖY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,metin er,Metin Akvaryum. Adnan menderes mah yaşar kuş cad.no 20 yalova merkez ,Yalova,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Selami YILDIZ,Fatih Sultan Mehmet Mah. Birdal SK. No 12 / 3 Sarıyer - İstanbul,İstanbul,SARIYER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Neslihan Turan Karakoyunlu,okul sokak No:16 Kat:2 Daire:4,Antalya,KUMLUCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,EBRU ERKAN,Ehlibeyt Mah. Tekstilciler Cad. Libra Kule No:21 Kat:5 06520 Balgat,Ankara,ÇANKAYA,Salihli Kadın Girişimi Kuru Domates Yeni Sezon,1 kg,130.0,1,130.0,6.53,123.47
+29-01-2023,Burak Sapmaz,Latife hanım caddesi no:24 Makina kimya yanı,Kocaeli,BAŞİSKELE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,mustafa kavak,ZONGULDAK MESLEKİ EĞİTİM MERKEZİ ON TEMMUZ MAH MEVLANA CAD NO:25 ZONGULDAK,Zonguldak,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Meryem Alpul,Telsiz mh 85 cadde no107 k 3 d 6 aksa inş ,İstanbul,ZEYTİNBURNU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Yusuf Demircioğlu,İbni Sina mahallesi 18 cadde no:9 green Gold sitesi c blok kat:4 daire:14,Gaziantep,ŞAHİNBEY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Emine Kesler,Fatih bulvarı öz Ulutaş ikiz kuleler No 1 A blok daire 1 Antalya Finike,Antalya,FİNİKE,Salihli Kadın Girişimi Kuru Basım Yaprak 400 gr,400 gr,54.0,1,54.0,2.71,51.29
+29-01-2023,Emine Kesler,Fatih bulvarı öz Ulutaş ikiz kuleler No 1 A blok daire 1 Antalya Finike,Antalya,FİNİKE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,şansel ünen,Erguvan Sk. No:11 Kat:3 Daire:7,İstanbul,KADIKÖY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Berkan Tonguç,Cumhuriyet Mah. Yayla Sokak Cumhuriyet Sitesi B Blok No: 24/6,Muğla,ORTACA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Seçil Güven,Kazım Karabekir mahallesi 9148 sokak no:7 daire:1 Yeşilyurt / Karabağlar / İzmir,İzmir,KARABAĞLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hatice Kara,Camikebir Mahallesi 138008 sokak Efe apartmanı. Kat.2 no.7 Kulu/Konya ,Konya,KULU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Gülçin Kavak Baydar,"İncivez, Egemenlik Cad No:154, 67100 Zonguldak Merkez/Zonguldak",Zonguldak,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,mustafa çetin,mimar sinan mah.17.sok.turfan sitesi.B.blok.6.12,Kahramanmaraş,ONİKİŞUBAT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Irmak Baguc,Aydınlar mah.Levet 1 cad. Kadim Apt.Blok no 49 iç kapı no 11 Tatvan /Bitlis,Bitlis,TATVAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Murat Doğan,204/7 SOKAK NO:7 DAMLA EVLERİ K:8 D:32,İzmir,BUCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mehmet Saltık,366 sokak batıpark sitesi d blok kat 14 daire no 56,Ankara,SİNCAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kerim Cinbiş,Mithatpaşa Caddesi No:55 TEB AŞ MENEMEN ŞUBESİ ,İzmir,MENEMEN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İlker doğan Yıldız,Özerli mahallesi müze sokak no:19/1 HATAY/Dörtyol ,Hatay,DÖRTYOL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,5,189.7,6.73,182.97
+29-01-2023,Ahmet Kılıçkalkan,Yeni Niğde Evleri Ayyıldız apt kat 4 no 14,Niğde,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kevser Kurt,Suna Kıraç Sk. No:6 Kat:1 Daire:2,İstanbul,ŞİŞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,özgül erdem,Yavuz Sultan Selim Blv 2981 ada 11 A emel apt kat 4 NO 12 Toroslar Mersin 1000 kişilik kapalı spor salonu kavşağı civarı ,Mersin,TOROSLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Yusuf beşyaprak,İstiklal mahallesi ihsan Özmen bulvarı No:62/ 2 Fatih camii karşısı Aksaray/Ortaköy ,Aksaray,ORTAKÖY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kemal Kavak,ÇAYDAMAR MAH. İLHAM SOK. NO:12/A,Zonguldak,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,IRMAK KÖMÜRCÜ,IRMAK PLASTİK-Rafetpaşa mahallesi 5351/1 Sokak No:7/A çamdibi bornova izmir,İzmir,BORNOVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yakup Yılmaz,İzmir/buca 1059 sokak no:24 daire:6 şirinkapı mahallesi ,İzmir,BUCA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Soner Bayar,Oğuzlar mahallesi Osmanlı caddesi no 14 Balgat Çankaya Ankara,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İbrahim Çetin,hacıseyit ali mahallesi 153063sokak no27/a,Konya,SEYDİŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Fadime Oruç,Çali mah. 178.sok. No:1/1 Daire:2 Nilüfer/Bursa,Bursa,NİLÜFER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,meltem taşar,Adnan Menderes mah Alper sok ikbal sitesi A blok kat:2/7 Palandöken/Erzurum ,Erzurum,PALANDÖKEN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Haitham Samiha," Bülbül,mah Uygur Sk. No: 4 D: 3 ",İstanbul,BEYOĞLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Hakkı Soy,KONEVİ MAH. ALEM SOK. SAFA AP. NO:15/1 ,Konya,MERAM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+29-01-2023,Hayati Kaya,Çalı mahallesi 178.sk no:4 daire:4,Bursa,NİLÜFER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,IRMAK KÖMÜRCÜ,TAT ET GIDA-KEMALPAŞA MAH. 7097 SK. NO:4 PINARBAŞI BORNOVA İZMİR,İzmir,BORNOVA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Sırrı Aydın,Güneş mahallesi.Dayioglu CAD. No 38 daire 2 Zümrüt apt,Kırklareli,LÜLEBURGAZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ahmet ÖMÜR,Köprü başı mh.eyüp sultan caddesi no 50 özel teksen koleji yazlık serdivan ,Sakarya,SERDİVAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Adem Ulusal,Çam sokak eren inşaat şantiyesi ,İstanbul,GÜNGÖREN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Levent Kürküt,5683/1sok.no11sariyer mah.,İzmir,KARABAĞLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ebru Angün,Ovaegmir fevzi çakmak mahallesi 14 sokak no 7 kat 2,Aydın,EFELER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Fatma Ay,Değirmenci Mahallesi 152872 sokak no 22 Konya/Seydişehir,Konya,SEYDİŞEHİR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,zelal konuk,Şehitlik mahallesi korkmaz sokak Erdoğan apartmanı no: 9/6,Ankara,POLATLI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Ercan DOĞAN,Siteler Mah.2019 Sokak No:1 Daire:6 Bidem inşaat 1,Adıyaman,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,İbrahim İNCEKARA,EMEK MAH.AYDIN SOKAKSAFRANBOLU İPEK EVLERSİTESİ A BLOK NO:19A DAİRE-4,Karabük,SAFRANBOLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Sezer Akan,Ordu Üniversitesi Rehberlik ve Psikolojik Danışma Merkezi,Ordu,ALTINORDU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Sezer Akan,Ordu Üniversitesi Rehberlik ve Psikolojik Danışma Merkezi,Ordu,ALTINORDU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Fadime Şahin,Cahit Külebi caddesi no 12/A depo,İstanbul,ÜMRANİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,MUSTAFA ÇAYLAK,park beker konutları Bülten caddesi 4/A/28 kat:7 ,Ankara,PURSAKLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Eda Aksoy,Aydınlar mahallesi taşlıtepe caddesi muaf yapı a blok şok market üstü no 21 kat4 ,Bitlis,TATVAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Aydın Tiryaki,76.Sokak (Eski 14.Sokak) No 14-12 Nilüfer Apt. 06490 Bahçelievler,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,orhan Erkorkmaz,Yaylacik Mag.  380.sokak. güntas apartmani.  10/7,Kırıkkale,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,John malcolm turan Erdem Paling,1312/2 sokak no 13 daire 17 huzur Apartmanı kat 4,Kocaeli,GEBZE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Selda Yumurtacilar,Uğur mumcu bulvarı 412.sokak ilkkent sitesi b blok d:4,Bursa,NİLÜFER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Kurtuluş Sonuç,Atatürk mah. 8809/2 sok çağrı apt n :165 k :8 d :31 Evka5,İzmir,ÇİĞLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Hacı Murat GÜLER,Mehmet Akif Mah. Atatürk Bulvarı Bulvar Evleri C2 Blok K:3 D:7 ,Adıyaman,MERKEZ,Salihli Kadın Girişimi Zeytinyağlı Çeşnili Kuru Domates,220 gr,40.5,1,40.5,2.03,38.47
+29-01-2023,Hacı Murat GÜLER,Mehmet Akif Mah. Atatürk Bulvarı Bulvar Evleri C2 Blok K:3 D:7 ,Adıyaman,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Serkan Kılıç,şirinevler mahallesi barbaros caddesi no:9 bahçelievler belediye binası kat:-1. KAT Spor  müdürlüğü ,İstanbul,BAHÇELİEVLER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Engin Durmaz,Gülçiçeği sokak no 8kat2 daire 7 34896,İstanbul,PENDİK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Orhan Arslan,148.sokak  ev no 14/1,Hatay,SAMANDAĞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,5,189.7,6.73,182.97
+29-01-2023,Gamze Çırcan gürbüz,BARBAROS MH. TROYA CD. ÖZGÜNEŞ SİTESİ C BLOK KAT-3 D:14,Çanakkale,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ercan günce,Beyazit mahallesi 381.sokak no:8,Van,ERCİŞ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Zihni Durmuş,"Terranova sitesi gürsu mh 380sk no9a kat3d10
+konyaaltı Antalya",Antalya,KONYAALTI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,ebru coşkun,Resatbey Mah. Besocak Cad. Ümit Apt. Kat:8 No:29/16,Adana,SEYHAN,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ömer Topaç,"2837 sokak önder sitesi  no 25b kat,3/15(en mesken 2 kuzeyii) ",Aksaray,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,HÜSEYİN Alpkirisci,Gülabibey mahallesi Fevzi Çakmak Caddesi 49/B,Çorum,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Süreyya Soylu,Yavuz Sultan Selim mah. Haliç CAD. Fodlaci sok. No.4 mimoza apt. Daire.2 fatih İstanbul,İstanbul,FATİH,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Havva Gedik,Toklu mh cennet sk. Vadi Apt A Blok Kat 5nm10,Trabzon,ORTAHİSAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Filiz Beken,"Büyükşehir Mah. , Çamlık Caddesi, Bahçeli Sk. A23 Blok , Bina No:15, Kat:5, Daire:24",İstanbul,BEYLİKDÜZÜ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,serdar yurt,sermaye piyasası kurulu Eskişehir yolu 8.km no 156 söğütözü Çankaya Ankara ,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Metin Ayvaz,"yuksekalan mahallesi 550 sokak no 7 daire 6 ceylin 2 apr
+
+MURATPAŞA / Antalya",Antalya,MURATPAŞA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,recep yilmaz,Gülay sokak no 7 daire 2 ,İstanbul,BEYLİKDÜZÜ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Sedat Muharremoğlu,Yedikule Mahallesi Hıdırellez Sokak Özen Apt. No:15 Dr.3 ve 5 Fatih/İSTANBUL,İstanbul,FATİH,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Oğuzhan Yıldırım,Cafe Konak 16 içi Beğendi Sk. No:1/3,Bursa,OSMANGAZİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,Abdullah BİÇER,Emek mahallesi Sanayi caddesi no 171/5,Muğla,MİLAS,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Harun Kart,Büyük Sinan Mah. Kalemkar İlyas Sok. Akcami Konutları 10.Blok No: 9-A/24 Kat:5 ,Konya,KARATAY,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Önder Aytekin,Adnan Orakçıoğlu Cad. 68/1,Elazığ,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ümre Gülen,Şanlıurfa Yolu Bulvarı Üzeri No:77/B (Bağlar İş Bankası Şb. Yanı) Güney Sitesi B Blok K:3 No:10 ,Diyarbakır,BAĞLAR,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Hakim YILDIZ,"Kordonboyu Mahallesi, Ankara Caddesi, No 147 İstMarina S1 Blok A Kat:28, Daire:345",İstanbul,KARTAL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,sevcan başaran güzel,Aydıncık ilçe devlet hastanesi,Yozgat,AYDINCIK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Süleyman DİNÇEL,İL SAĞLIK MÜDÜRLÜĞÜ 3.KAT ÇEKÜS BİRİMİ,Niğde,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,NS N S,Hürriyet Mahallesi  162 Sokak No 20,Muş,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Mahmut CAN,Dicle 1. Sokak Kahraman city Sitesi C Blok No :1/C No:6,Diyarbakır,ERGANİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+29-01-2023,mustafa barut,İstiklal mah.erciyes cad.petrolkent 2 sitesi A blok. kat 1 daire 3,Mersin,MEZİTLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Yıldız KUTMAN,Esenevler mah yunus Emre Cad devran sokak no 2 daire 3 Ümraniye İstanbul ,İstanbul,ÜMRANİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Özgür Çifter,Fatih mahallesi. Mithat pasa cad. Toki blokları f 36 ya 38 no.1,Erzincan,ÜZÜMLÜ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+29-01-2023,Ali Serin,OTO BULUŞ ANADOLU SANAYİ FERHATLI CAD.NO:74 SELÇUKLU KONYA,Konya,SELÇUKLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+28-01-2023,Sıla Nazlıoğlu,"İstiklal Mahallesi, Pektaş Sokak No:10 Daire:8 Lüleburgaz / Kırklareli",Kırklareli,LÜLEBURGAZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+28-01-2023,IBRAHIM ETEM CAKIR,Atatürk Üniversitesi lojmanları 49. blok daire 11 ,Erzurum,YAKUTİYE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+28-01-2023,tuğba akbey,Yeni batı mah 2354 Cadde Esnaf Sanatkarlar 3 sitesi 13/3 Yenimahalle Ankara,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+28-01-2023,öktem konuk,Define Sk. No:2 Kat:2 Daire:2,Bursa,YILDIRIM,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+28-01-2023,Eren Yazıcı,Hamidiye Mah. Sedir Sok. Sertaş Sitesi A1 Blok Kat:1 Daire:5,İstanbul,KAĞITHANE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+28-01-2023,Ajda Nayman,Alicetinkaya mah kumru sokak Talip Apt. B blok daire:6 10400AYVALIK ,Balıkesir,AYVALIK,Salihli Kadın Girişimi Ev Makarnası 1 kg,,80.0,1,80.0,4.01,75.99
+28-01-2023,Ajda Nayman,Alicetinkaya mah kumru sokak Talip Apt. B blok daire:6 10400AYVALIK ,Balıkesir,AYVALIK,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+28-01-2023,Nedim Cemal Bayar,Tınaztepe Sokak No : 7 / 6,Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+28-01-2023,HASAN AYDIN,ATAEVLER MAH. CİHAN (230) SOK. 1/B BULVAR LOTUS SİT. B BLK. D:29,Bursa,NİLÜFER,Salihli Kadın Kooperatifi Salamura Yaprak,1 Adet,130.0,1,130.0,6.53,123.47
+28-01-2023,soykan tekin,Manisa Gümrük Müdürlüğü Manisa Organize Sanayi Bölgesi 4. Kısım Yunusemre Manisa,Manisa,YUNUSEMRE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+28-01-2023,Murat Fehmi Özsoy,75. Yıl Cumhuriyet Bulvarı Mehmetçik Caddesi No 13 Saykap Meltem Sitesi B Blok Kat 3 Daire 5 Maltepe Mahallesi Güzelbahçe İzmir,İzmir,GÜZELBAHÇE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+28-01-2023,Ömer Bakırcı,sırakapılar mah 1789 sok no 10 k 6 d:25,Denizli,MERKEZEFENDİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+28-01-2023,Ümit OCAK,Kalabak Mah. 3294 Sok No 14 ,İzmir,URLA,Salihli Kadın Girişimi Lavanta Yağı 20 cc,20 cc,80.0,1,80.0,4.01,75.99
+28-01-2023,Ümit OCAK,Kalabak Mah. 3294 Sok No 14 ,İzmir,URLA,Salihli Kadın Girişimi Iç Badem 1 kg,1 kg,191.59,1,191.59,9.61,181.98
+28-01-2023,Ümit OCAK,Kalabak Mah. 3294 Sok No 14 ,İzmir,URLA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,4,151.76,5.38,146.38
+28-01-2023,Mürşide Şekerci,Yaylacık mahallesi Akçaabat Caddesi Kuşburnu sokak Tuğra Apt Numara:4 Kat:5 Daire :15,Trabzon,AKÇAABAT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+28-01-2023,Nimet Tuba Öz,Ege Mh. 426.Sokak No: 15 Daire:7 Oğuzhan Sitesi B Blok Kat3 Daire 7 Kuşadası / Aydın,Aydın,KUŞADASI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+28-01-2023,Cemal Bektaş,Talatpasa mah aslangazi cad no 27 c ,İstanbul,KAĞITHANE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+28-01-2023,Güzide Elçi,1306 sokak No:10 A Kat:1 Daire:2,Kırklareli,MERKEZ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
+28-01-2023,Ayşe Şimşek,Yenicami mh 657.sok no:1 modern evler f blok 5 numara,Van,EDREMİT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+28-01-2023,Neslihan Sutay,Turgut Özal mahallesi 34. Sokak no:8 daire:12 ,İstanbul,ESENYURT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+28-01-2023,Huriye Köroğlu,Çelimli Sk No:7 Kat:4 Daire:12,Tekirdağ,ÇORLU,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+28-01-2023,Deniz Tıraş Sevindik,kadılar mh çay sk no:65/a 51900 ulukışla niğde,Niğde,ULUKIŞLA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+27-01-2023,Meryem Yıldız,.  Umutlu sok pamuk sitesi c blok no 12 kat 26,Ankara,YENİMAHALLE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+27-01-2023,Cumhur Gül,Cengiz Topel Cd. No:10 Forum Anatolia K Blok Kat:2 Daire:18,Kocaeli,KARTEPE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+27-01-2023,Talat Aydın,Altay mah. Söğüt cad. Adress Eryaman konutlari 8B no.38 ERYAMAN,Ankara,ETİMESGUT,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+27-01-2023,nesrin nilgun oz,ATATÜRK CAD.NO 186 DENİZ AP.KAT 4 ALANYA,Antalya,ALANYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+27-01-2023,Veli Yetkin Gelir,Hürriyet Cad Eğitmen sitesi A blok No 5 Daire no 6 Plevne Altıeylül Balıkesir ,Balıkesir,ALTIEYLÜL,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,5,189.7,6.73,182.97
+27-01-2023,İrfan Şeker,75.YIL MAH 5330 SK ŞHT. J. UZM. ONB. METİN UYGUN APT. NO:4 KAT:3 D:6,Manisa,YUNUSEMRE,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,3,113.82,4.04,109.78
+27-01-2023,Zeynep Çar,Seyhan caddesi Ayasofya Sk. No:14 Kat:3 Daire:3,İstanbul,SULTANBEYLİ,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+27-01-2023,özge ilter," Asengel Endüstri - Ahmet Haşim Caddesi 35/27
+Dikmen, Ankara - Türkiye",Ankara,ÇANKAYA,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+27-01-2023,Turgay kızıl,"Sağlık mahallesi.ahmet erdem caddesi no 91/1
+Çankırı Şabanözü",Çankırı,ŞABANÖZÜ,Salihli Kadın Kooperatifi Salamura Yaprak,1 Adet,130.0,1,130.0,6.53,123.47
+27-01-2023,adnan gencer,Sümbül sokak Aydemir apt.no.17/8 Kuşadası,Aydın,KUŞADASI,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,1,37.94,1.35,36.59
+27-01-2023,erhan çakır,Karaoğlanoğlu cadde eren apt.no.20 kat 5 d.9 şirinevler ,İstanbul,BAHÇELİEVLER,Salihli Kadın Girişimi Sultaniye Kuru Üzüm Yeni Sezon,1 kg,37.94,2,75.88,2.69,73.19
