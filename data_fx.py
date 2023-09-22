@@ -8,6 +8,7 @@ def get_fx():
     }
     response = requests.get(url, params=params)
     data = response.json()
+    print(data)
     try:
        data = response.json()
        return data['rates']['TRY']
