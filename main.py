@@ -33,11 +33,10 @@ def create_csv():
 def update_csv():
     today = date.today()
     temperature = get_weather()
-    # usdtry = get_fx()
+    usdtry = get_fx()
     try:
         itb_data = get_itb_data()
-        # new_row = {'Date': today, 'Temperature (C)': temperature, 'USDTRY': round(usdtry, 2)} | itb_data
-        new_row = {'Date': today, 'Temperature (C)': temperature, 'USDTRY': 0} | itb_data
+        new_row = {'Date': today, 'Temperature (C)': temperature, 'USDTRY': round(usdtry, 2)} | itb_data
 
         with open('./raisin_data.csv', 'a') as csvfile:
             writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
