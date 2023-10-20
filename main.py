@@ -33,8 +33,8 @@ def create_csv():
 def update_csv():
     today = date.today()
     temperature = get_weather()
-    usdtry = get_fx()
-    # usdtry = 28.01
+    # usdtry = get_fx()
+    usdtry = 28.00
     try:
         itb_data = get_itb_data()
         new_row = {'Date': today, 'Temperature (C)': temperature, 'USDTRY': round(usdtry, 2)} | itb_data
